@@ -488,3 +488,7 @@ MVVM, Hilt Dependency Injection, Jetpack Navigation Component, Kotlin Coroutines
 Console application to save multiple-choice questions easily to database.
 
 MVVM, Firebase, Kotlin Coroutines, Room, Hilt Dependency Injection, ViewBinding, Flow, StateFlow, Channel, Material Design, Git...
+
+| № | Name | Description | Tech stack | Navigation |
+| --|------|-------------|------------|------------|
+| **33** | **Offline Caching** | Simple app to get data from API and cache its local database. In this case, it receives a bunch of restaurants and shows them in the list, and caches them locally. If there is no internet it shows cached restaurants, also it shows cached restaurants at the beginning of the app, after getting restaurants from API, it automatically updates restaurants. | MVVM, Hilt Dependency Injection, ViewBinding, Kotlin Coroutines, Retrofit, Flow, NetworkBoundResource Caching, Git, Room, Glide... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/simple-offline-caching-app) |
