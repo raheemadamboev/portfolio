@@ -478,3 +478,13 @@ Jetpack Navigation Component, ViewBinding, Material Design, Safe Args, Deep link
 This app helps users to add to-do tasks and smash their daily goals. This is the simplest yet powerful app.
 
 MVVM, Hilt Dependency Injection, Jetpack Navigation Component, Kotlin Coroutines, Room, Jetpack DataStore Preferences, ViewBinding, Flow, StateFlow, Channel, Process Death Handling, Material Design, Git...
+
+# 32. English Grammar Tests Admin
+
+<p align="center">
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/English%20Grammar%20Tests%20Admin.jpg" width="869" height="416" />
+</p>
+
+Console application to save multiple-choice questions easily to database.
+
+MVVM, Firebase, Kotlin Coroutines, Room, Hilt Dependency Injection, ViewBinding, Flow, StateFlow, Channel, Material Design, Git...
