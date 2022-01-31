@@ -566,3 +566,16 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **4** | **Notification REST API** | Basic KTOR built REST API server to send requests to ONE SIGNAL and communicate with Android client app. | KTOR, KTOR Client, One Signal, Kotlin Serialization... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/notification-rest-api) |
 | **5** | **GoTest Web** | I wrote Firebase Cloud Functions with JavaScript in the Node.js environment. I also deployed them to Google Cloud. They run automatically in Google Servers with the schedule. | JavaScript, Firebase Cloud Functions | - |
 | **6** | **JavaScript Playground** | JavaScript playground to play with JavaScript. | Foundation, Modules, Syntax, Functions, Methods, Objects, Classes, Promises, Generators, Async and Await... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/javascript-playground) |
+
+# Achievements
+
+```kotlin
+when(education) {
+   IELTS ->  "Overall 6.5, Listening 7.5, Reading 6.5, Writing 6.0, Speaking 6.0"
+   SAT -> "Overall 1230, Evidence-Based Reading and Writing 580, Math 650"
+   university[0] -> "INHA University in South Korea 100% $7 000 scholarship"
+   university[1] -> "The University of Arizona in the US $40 000 scholarship"
+   university[2] -> "Lawrence Technological University in the US $72 000 scholarship"
+   university[3] -> "Urgench State University in Uzbekistan"
+}
+```
