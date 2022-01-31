@@ -550,16 +550,16 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 
 # Android Libraries
 
-| № | Name | Description | Tech stack | Navigation |
-|---|------|-------------|------------|------------|
+| № | Name | Description | Navigation |
+|---|------|-------------|------------|
 | **1** | **Image RadioButton** | Light library to add a beautiful custom radio button with image functionality. | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/image-radio-button-android) |
 | **2** | **Check Internet** | Light library to check internet connection in android apps easily. It checks real internet connection by connecting to Google's DNS server. If the call is successful then the internet is working else not working. | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/check-internet-android) |
 | **3** | **Server Time** | Light library to get real UNIX time from Google server in android. Sometimes phone's local date can be wrong so for best accuracy it is better to get time from the server. It only gets time from the server and always gets the correct date. | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/server-time-android) |
 
 # Backend Applications
 
-| № | Name | Description | Navigation |
-|---|------|-------------|------------|
+| № | Name | Description | Tech stack | Navigation |
+|---|------|-------------|------------|------------|
 | **1** | **Person REST API** | Demo Java Spring Boot REST API to list people details. App is connected to PostgreSQL database. | Java Spring Boot, Docker, PostgreSQL, Maven, FlywayDB, JDBCTemplate, HikariDataSource, Spring Dependency Injection... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/demo-people-rest-api) |
 | **2** | **Bank REST API** | Simple REST API using Kotlin Spring Boot in TDD (Test Driven Development). I used JUnit5 for testing the project. | Kotlin Spring Boot, Gradle, JUnit5, Mockk, RestTemplate, Spring Dependency Injection... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/demo-bank-rest-api) |
 | **3** | **Footballers REST API** | KTOR REST API to give random football players images and data. | KTOR... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/footballers-rest-api) |
