@@ -9,7 +9,7 @@ This is my portfolio. It consists of 4 main sections that are Android apps, Andr
 </p>
  
 <p align="center">
- <a href="https://play.google.com/store/apps/details?id=xyz.teamgravity.gotest" target="_blank" rel="noopener noreferrer">
+ <a href="https://play.google.com/store/apps/details?id=xyz.teamgravity.gotest" target="_blank">
    <img  src="https://img.shields.io/badge/Play Store-00875f?style=for-the-badge&logo=google&logoColor=white">
  </a>&nbsp;
  <a href="https://play.google.com/store/apps/details?id=xyz.teamgravity.uzbekistanaccountingcode">
