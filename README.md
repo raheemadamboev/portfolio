@@ -4,16 +4,18 @@ This is my portfolio. It consists of 4 main sections that are Android apps, Andr
 
 ### 1. GoTest - Testlar, Kitoblar, Imtihonlar platformasi
 
-<img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/GoTest.jpg" width="869" height="416" />
-
- <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=xyz.teamgravity.gotest">
-    <img  src="https://img.shields.io/badge/Play Store-8382E3?style=for-the-badge&logo=google&logoColor=white">
-  </a>&nbsp;
-  <a href="https://play.google.com/store/apps/details?id=xyz.teamgravity.uzbekistanaccountingcode">
-    <img  src="https://img.shields.io/badge/App Gallery-E56F08?style=for-the-badge&logo=huawei&logoColor=white">
-  </a>&nbsp;
-  <a href="https://appgallery.huawei.com/#/app/C104420151">
-    <img  src="https://img.shields.io/badge/GitHub-fff200?style=for-the-badge&logo=github&logoColor=black">
-  </a>
+<p align="center">
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/GoTest.jpg" width="869" height="416" />
+</p>
+ 
+<p align="center">
+ <a href="https://play.google.com/store/apps/details?id=xyz.teamgravity.gotest" target="_blank" rel="noopener noreferrer">
+   <img  src="https://img.shields.io/badge/Play Store-00875f?style=for-the-badge&logo=google&logoColor=white">
+ </a>&nbsp;
+ <a href="https://play.google.com/store/apps/details?id=xyz.teamgravity.uzbekistanaccountingcode">
+   <img  src="https://img.shields.io/badge/App Gallery-e14258?style=for-the-badge&logo=huawei&logoColor=white">
+ </a>&nbsp;
+ <a href="https://appgallery.huawei.com/#/app/C104420151">
+   <img  src="https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white">
+ </a>
 </p>
