@@ -579,3 +579,16 @@ when(education) {
    university[3] -> "Urgench State University in Uzbekistan"
 }
 ```
+
+```json
+{
+   "github": "https://github.com/raheemadamboev",
+   "stack_overflow": "https://stackoverflow.com/users/14621813/raheem",
+   "google_play_store": "developer page",
+   "huwaei_app_gallery": "developer_page",
+   "telegram": "https://telegram.me/raheemadamboev",
+   "linkedin": "http://linkedin.com/in/raheemadamboev/",
+   "twitter": "https://twitter.com/raheemadamboev",
+   "mail": "raheemadamboev@gmail.com"
+}
+```
