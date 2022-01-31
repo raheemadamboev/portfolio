@@ -143,7 +143,7 @@ Jetpack Compose, Clean Architecture, MVVM, Hilt Dependency Injection, Jetpack Co
 ## 8. Notepad
 
 <p align="center">
- <img src="" width="869" height="416" />
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/Notepad.jpg" width="869" height="416" />
 </p>
  
 <p align="center">
@@ -196,3 +196,285 @@ MVVM, Material Design, Room, Git, ViewBinding, Firebase, QR Code, Excel, Google 
 This app gets cryptocurrency information from API and shows you data.
 
 Jetpack Compose, Clean Architecture, MVVM, Hilt Dependency Injection, Jetpack Compose Navigation, Kotlin Coroutines, Git, Retrofit, State, Flow...
+
+## 11. Recipe
+
+<p align="center">
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/Recipe.jpg" width="869" height="416" />
+</p>
+ 
+<p align="center">
+ <a href="https://github.com/raheemadamboev/jetpack-compose-recipe-app">
+   <img  src="https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white">
+ </a>
+</p>
+
+This app gets foods recipe information from API and shows you data. You can also search them by name and filter them by type. Light and dark theme is supported. Cool animations are implemented.
+
+Jetpack Compose, MVVM, Hilt Dependency Injection, Jetpack Navigation Component, Retrofit, Kotlin Coroutines, Glide, Git, Animations, Material Design, Handling configuration changes and Process Death...
+
+## 12. Image Search
+
+<p align="center">
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/Image%20Search.jpg" width="869" height="416" />
+</p>
+ 
+<p align="center">
+ <a href="https://github.com/raheemadamboev/image-search-app">
+   <img  src="https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white">
+ </a>
+</p>
+
+Simple app to search high-quality images from the server.
+
+MVVM, Jetpack Navigation Component, Hilt Dependency Injection, Retrofit, Kotlin Coroutines, Jetpack Paging 3, ViewBinding, Git, Glide, Process Death...
+
+## 13. Spotify
+
+<p align="center">
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/Spotify.jpg" width="869" height="416" />
+</p>
+ 
+<p align="center">
+ <a href="https://github.com/raheemadamboev/spotify-app">
+   <img src="https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white">
+ </a>
+</p>
+
+This is a simple app to play some music from the firebase server.
+
+MVVM, Hilt Dependency Injection, Jetpack Navigation Component, Glide, Exoplayer, Kotlin Coroutines, ViewBinding, Git, Material Design, Firebase, Music Notification...
+
+## 14. News
+
+<p align="center">
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/News.jpg" width="869" height="416" />
+</p>
+ 
+<p align="center">
+ <a href="https://github.com/raheemadamboev/news-app">
+   <img src="https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white">
+ </a>
+</p>
+
+Simple app to read news from API and save them locally to read later.
+
+MVVM, Hilt Dependency Injection, Jetpack Navigation Component, Retrofit, Glide, Kotlin Coroutines, ViewBinding, Room, Git, Material Design, Pagination, Handling configuration changes...
+
+## 15. Friend Chat
+
+<p align="center">
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/Friend%20Chat.jpg" width="869" height="416" />
+</p>
+ 
+<p align="center">
+ <a href="https://github.com/raheemadamboev/friend-chat-app">
+   <img src="https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white">
+ </a>
+</p>
+
+Chat app to send messages and files among users. You can also create chat groups and there are more features...
+
+MVVM, Hilt Dependency Injection, Jetpack Navigation Component, ViewBinding, Kotlin Coroutines, Kotlin SharedFlow, Git, Stream SDK...
+
+## 16. Running Tracker
+
+<p align="center">
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/Running%20Tracker.jpg" width="869" height="416" />
+</p>
+ 
+<p align="center">
+ <a href="https://github.com/raheemadamboev/running-tracker-app">
+   <img src="https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white">
+ </a>
+</p>
+
+This app tracks your running activity and gives information about your run using Google Maps. It also saves your all runs in a local database and you can sort them by some criteria. You can also get your running statistics with charts.
+
+MVVM, Hilt Dependency Injection, Jetpack Navigation Component, Google Maps, Glide, Kotlin Coroutines, ViewBinding, Room, Git, Material Design, Barcharts, Handling Configuration Changes, Service...
+
+## 17. Irregular Verbs
+
+<p align="center">
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/IrregularVerbs.jpg" width="869" height="416" />
+</p>
+ 
+<p align="center">
+ <a href="https://play.google.com/store/apps/details?id=xyz.teamgravity.irregularverbs">
+   <img src="https://img.shields.io/badge/Play Store-00875f?style=for-the-badge&logo=google&logoColor=white">
+ </a>
+</p>
+
+This app helps people who want to learn English irregular verbs by playing interactive quiz games and searching irregular verbs by name and definition. The app supports multiple languages (English, Uzbek, Russian). Also, it is fully offline, lightweight, extremely easy to use.
+
+MVVM, Room, Firebase, Git, R8, Jetpack Navigation Component, Hilt Dependency Injection, Kotlin Coroutines, ViewBinding, Animations, Exoplayer, Admob...
+
+## 18. Bluetooth
+
+<p align="center">
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/Bluetooth.jpg" width="869" height="416" />
+</p>
+ 
+<p align="center">
+ <a href="https://github.com/raheemadamboev/bluetooth-playground-app">
+   <img src="https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white">
+ </a>
+</p>
+
+Simple android app to enable/disable Bluetooth, make Bluetooth discoverability on, search for available Bluetooth devices, and pair them.
+
+Bluetooth, Material Design, ViewBinding...
+
+## 19. Bluetooth Chat
+
+<p align="center">
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/Bluetooth%20Chat.jpg" width="869" height="416" />
+</p>
+ 
+<p align="center">
+ <a href="https://github.com/raheemadamboev/bluetooth-chat-app">
+   <img src="https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white">
+ </a>
+</p>
+
+Android app to send text messages over Bluetooth via BLE. This application is required to be installed on two devices and you can scan and connect each other in the app. Then you can start messaging.
+
+BLE, MVVM, Jetpack Navigation Component, ViewBinding, Git, Material Design...
+
+## 20. StockX Med
+
+<p align="center">
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/StockX%20Med.jpg" width="869" height="416" />
+</p>
+
+This app is to track drugstore inventory and all the data is stored in the server. Many users can use the app at the same time and it is synchronized in real-time among all devices. You can share bar codes, scan bar codes, and filter the data of the products. You can do even more...
+
+MVVM, Room, Firebase, Git, R8, Kotlin Coroutines, Hilt Dependency Injection, Glide, ViewBinding, Jetpack Paging, Material Design, Custom views, Threading...
+
+## 21. StockX Med Admin
+
+<p align="center">
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/StockX%20Med%20Admin.jpg" width="869" height="416" />
+</p>
+
+This app is a console app for StockX Med. So admins can add drugs to servers so clients can get drugs for their drugstore.
+
+MVVM, Room, Firebase, Git, R8, Kotlin Coroutines, Hilt Dependency Injection, ViewBinding, Jetpack Paging, Material Design, Threading...
+
+## 22. BookLending
+
+<p align="center">
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/BookLending.jpg" width="869" height="416" />
+</p>
+
+App to manage debtors and track debts and collected money. This app has multi-language support (Russian, Uzbek) and easy to use user interface. Secured with PIN and fingerprint scanner. All data is stored in the server and fully synchronized over all devices. Offline mode is supported. Light and dark theme and other crucial features to manage debt-related activities.
+
+MVVM, Hilt Dependency Injection, Room, Firebase, Kotlin Coroutines, ViewBinding, R8, Jetpack Paging, Material Design, Git...
+
+## 23. GoTest CEO
+
+<p align="center">
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/GoTest%20CEO.jpg" width="869" height="416" />
+</p>
+
+This app is to help manage GoTest platform. You can use analytics and revenue data. You can execute important services and functions. You can change the data of users, admins, and partners.
+
+MVVM, Firebase, Hilt Dependency Injection, Kotlin Coroutines, ViewBinding, R8, Git, Glide, Jetpack Paging...
+
+## 24. GoTest Partner
+
+<p align="center">
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/GoTest%20Partner.jpg" width="869" height="416" />
+</p>
+ 
+<p align="center">
+ <a href="https://play.google.com/store/apps/details?id=xyz.teamgravity.gotestpartner">
+   <img src="https://img.shields.io/badge/Play Store-00875f?style=for-the-badge&logo=google&logoColor=white">
+ </a>
+</p>
+
+Console platform for GoTest partners. They can manage their followers and payments.
+
+MVVM, Git, R8, Firebase, Kotlin Coroutines, Hilt Dependency Injection, Glide, ViewBinding, Material Design, Jetpack Paging, Threading...
+
+## 25. GoTest Admin
+
+<p align="center">
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/GoTest%20Admin.jpg" width="869" height="416" />
+</p>
+
+This app is to help GoTest admins to manage education content and materials. They can add, edit and delete contents and configure some fields.
+
+MVVM, Firebase, Hilt Dependency Injection, Kotlin Coroutines, Glide, Git, ViewBinding, R8, Jetpack Paging, Algorithms...
+
+## 26. StockX Denim
+
+<p align="center">
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/StockX%20Denim.jpg" width="869" height="416" />
+</p>
+
+This app is paid version of StockX Pro. It has all the features that StockX Pro has. It has also extra important features. Backing-up in the cloud and better statistics, extra configuration, and so on...
+
+MVVM, Hilt Dependency Injection, Kotlin Coroutines, Charts, Material Design, Room, Git, ViewBinding, Firebase, QR Code, Excel, Live search, R8...
+
+## 27. PerfectBuy
+
+<p align="center">
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/PerfectBuy.jpg" width="869" height="416" />
+</p>
+
+This app helps users to buy products online, pay, and track their orders. Users can create accounts and change their profiles.
+
+Java, AsyncTask, Firebase, Picasso, Material Design, Jetpack Paging...
+
+## 28. Raheem Restaurant
+
+<p align="center">
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/Raheem%20Restaurant.jpg" width="869" height="416" />
+</p>
+
+This app helps users to order food from their lovely restaurants and it sends data to restaurant owners. Users can see their order history and easily pay.
+
+Java, SQLite, AsyncTask, Firebase, Picasso, Material Design, Jetpack Paging...
+
+## 29. Raheem Restaurant Admin
+
+<p align="center">
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/Raheem%20Restaurant%20Admin.jpg" width="869" height="416" />
+</p>
+
+This app helps restaurant owners to manage their restaurants and receive orders from clients, also sending them. Orders automatically get received and notification fires up.
+
+Java, AsyncTask, Firebase, Picasso, Material Design, Notification, Jetpack Paging...
+
+## 30. Jetpack Navigation Component
+
+<p align="center">
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/Jetpack%20Navigation%20Component.jpg" width="869" height="416" />
+</p>
+ 
+<p align="center">
+ <a href="https://github.com/raheemadamboev/navigation-component-app">
+   <img src="https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white">
+ </a>
+</p>
+
+Simple app to show off my Jetpack Navigation Component skills.
+
+Jetpack Navigation Component, ViewBinding, Material Design, Safe Args, Deep links...
+
+## 31. ToDo List
+
+<p align="center">
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/Todo%20List.jpg" width="869" height="416" />
+</p>
+ 
+<p align="center">
+ <a href="https://github.com/raheemadamboev/todo-list-app">
+   <img src="https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white">
+ </a>
+</p>
+
+This app helps users to add to-do tasks and smash their daily goals. This is the simplest yet powerful app.
+
+MVVM, Hilt Dependency Injection, Jetpack Navigation Component, Kotlin Coroutines, Room, Jetpack DataStore Preferences, ViewBinding, Flow, StateFlow, Channel, Process Death Handling, Material Design, Git...
