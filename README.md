@@ -590,8 +590,8 @@ when(education) {
 {
    "github": "https://github.com/raheemadamboev",
    "stack_overflow": "https://stackoverflow.com/users/14621813/raheem",
-   "google_play_store": "developer page",
-   "huwaei_app_gallery": "developer_page",
+   "google_play_store": "https://play.google.com/store/apps/dev?id=5173702047357476752",
+   "huwaei_app_gallery": "https://appgallery.huawei.com/#/app/C104375987",
    "telegram": "https://telegram.me/raheemadamboev",
    "linkedin": "http://linkedin.com/in/raheemadamboev/",
    "twitter": "https://twitter.com/raheemadamboev",
