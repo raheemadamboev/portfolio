@@ -78,7 +78,7 @@ MVVM, Room, Firebase, Git, R8, Jetpack Navigation Component, Hilt Dependency Inj
 This app is dedicated to Alisher Navoi. You can read all of his poems and artworks. Poems are organized very efficiently and the app shows your progress, also sorts them for your benefit. What's more, you can take quizzes from his life and work.
 
 - **App won top 10 places in Uzbekistan tournament over 400 apps**
-- **6 000+ downloads in Google Play Store so far**
+- **8 000+ downloads in Google Play Store so far**
 - **4.5 overall stars in Google Play Store**
 
 MVVM, Hilt Dependency Injection, Jetpack Navigation Component, Room, Firebase, ViewBinding, Git, Kotlin Coroutines, Material Design, Glide, R8, Handling configuration changes...
