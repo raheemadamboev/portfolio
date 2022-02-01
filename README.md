@@ -20,7 +20,7 @@ One of the biggest educational platform to study in Uzbekistan. You can solve mu
 - **2 000+ daily active users in August 2021**
 - **Top 3 grossing educational apps in Uzbekistan**
 - **Reached 1st place in educational apps in Google Play Store in August 2021**
-- **4.3 above overall stars in Google Play Store**
+- **4.3 overall stars in Google Play Store**
 
 MVVM, Jetpack Navigation Component, Room, Flow, StateFlow, Git, R8, Firebase, Kotlin Coroutines, Hilt Dependency Injection, Glide, Click Payment SDK, ViewBinding, Jetpack Paging, Material Design, Custom views, Animations, Threading, Deployment of Firebase Cloud Functions via JavaScript, Custom and Google authentication...
 
@@ -99,6 +99,9 @@ MVVM, Hilt Dependency Injection, Jetpack Navigation Component, Room, Firebase, V
 </p>
 
 This app plays audio of "Kichkina Shahzoda" novel from the server online. It is easy to use and straightforward. You can easily control audio by notification.
+
+- **1 500+ downloads in Google Play Store so far**
+- **4.6 overall stars in Google Play Store**
 
 MVVM, Hilt Dependency Injection, Jetpack Navigation Component, Glide, Exoplayer, Kotlin Coroutines, ViewBinding, Git, Material Design, Firebase, Music Notification...
 
