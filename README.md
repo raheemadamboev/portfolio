@@ -57,7 +57,7 @@ Tech stack: MVVM, Firebase, Room, Kotlin Coroutines, Hilt Dependency Injection, 
 
 This app helps people who want to learn bookkeeping special account codes by playing interactive quiz games and searching account codes by content and numbers. The app supports multiple languages (Uzbek, Russian). Also, it is fully offline, lightweight, and extremely easy to use.
 
-- **5 000+ downloads in Google Play Store so far**
+- **6 000+ downloads in Google Play Store so far**
 - **350+ daily active users in current time, and the peak is almost 500 daily active users**
 - **4.8 overall stars in Google Play Store**
 
