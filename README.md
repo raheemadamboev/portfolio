@@ -1,5 +1,12 @@
 My portfolio consists of 4 main sections that are Android apps, Android libraries, Backend apps, and achievements. I organized them in a clean way. Each app has a title, navigation (URL links), a short description, and tech stack. Some of them also have achievements that are written in bold. There are 3 available navigations that are Google Play Store, Huwaei App Gallery, and GitHub. Google Play Store and Huawei App Gallery navigations have a link to the production app. I really tried to write a short description as not technical as possible, so if you want to read the technical description, please kindly navigate to the app's GitHub navigation. There you can find the full technical description, tech stack, commits I made with the timestamp, full source code, and demo app that you can use. Obsession, passion, consistency and focus is the key to success!
 
+| Category | Count |
+|----------|-------|
+| Production Android apps | 19 |
+| Hobby Android apps | 51 |
+| Android libraries | 3 |
+| Hobby Backend apps | 4 |
+
 # Android apps
 
 ## 1. GoTest - Testlar, Kitoblar, Imtihonlar platformasi
