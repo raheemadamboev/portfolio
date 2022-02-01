@@ -310,6 +310,9 @@ MVVM, Hilt Dependency Injection, Jetpack Navigation Component, Google Maps, Glid
 
 This app helps people who want to learn English irregular verbs by playing interactive quiz games and searching irregular verbs by name and definition. The app supports multiple languages (English, Uzbek, Russian). Also, it is fully offline, lightweight, extremely easy to use.
 
+- **1 500+ downloads in Google Play Store so far**
+- **5 overall stars in Google Play Store**
+
 MVVM, Room, Firebase, Git, R8, Jetpack Navigation Component, Hilt Dependency Injection, Kotlin Coroutines, ViewBinding, Animations, Exoplayer, Admob...
 
 ## 18. Bluetooth
