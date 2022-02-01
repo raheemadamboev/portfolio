@@ -14,13 +14,13 @@ My portfolio consists of 4 main sections that are Android apps, Android librarie
  </a>
 </p>
 
-Education platform to study. You can solve multiple-choice questions from more than 8 subjects and more than 100 000 questions and get full results. Also, you can take mock exams and prepare for the actual exam. And there is more to get from GoTest.
+One of the biggest educational platform to study in Uzbekistan. You can solve multiple-choice questions from more than 8 subjects and more than 100 000 questions, also you can get full results of your work. Furthermore, you can take mock exams and prepare for the actual exam. And, there is more to get from GoTest.
 
 - **80 000+ downloads in Google Play Store so far**
-- **2 000+ daily active users in August**
-- **Top 3 grossing education apps in Uzbekistan**
-- **Reached 1st place in education apps in Google Play Store in August**
-- **4.3 overall stars in Google Play Store**
+- **2 000+ daily active users in August 2021**
+- **Top 3 grossing educational apps in Uzbekistan**
+- **Reached 1st place in educational apps in Google Play Store in August 2021**
+- **4.3 above overall stars in Google Play Store**
 
 MVVM, Jetpack Navigation Component, Room, Git, R8, Firebase, Kotlin Coroutines, Hilt Dependency Injection, Glide, Click Payment SDK, ViewBinding, Jetpack Paging, Material Design, Custom views, Threading, Deployment of Firebase Cloud Functions via JavaScript, Custom and Google authentication...
 
