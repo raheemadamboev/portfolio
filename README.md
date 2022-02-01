@@ -22,7 +22,7 @@ One of the biggest educational platform to study in Uzbekistan. You can solve mu
 - **Reached 1st place in educational apps in Google Play Store in August 2021**
 - **4.3 above overall stars in Google Play Store**
 
-MVVM, Jetpack Navigation Component, Room, Git, R8, Firebase, Kotlin Coroutines, Hilt Dependency Injection, Glide, Click Payment SDK, ViewBinding, Jetpack Paging, Material Design, Custom views, Threading, Deployment of Firebase Cloud Functions via JavaScript, Custom and Google authentication...
+MVVM, Jetpack Navigation Component, Room, Flow, StateFlow, Git, R8, Firebase, Kotlin Coroutines, Hilt Dependency Injection, Glide, Click Payment SDK, ViewBinding, Jetpack Paging, Material Design, Custom views, Animations, Threading, Deployment of Firebase Cloud Functions via JavaScript, Custom and Google authentication...
 
 ## 2. English Grammar Tests
 
