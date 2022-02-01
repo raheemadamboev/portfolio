@@ -158,7 +158,7 @@ Jetpack Compose, Clean Architecture, MVVM, Hilt Dependency Injection, Jetpack Co
  </a>
 </p>
 
-Notepad is completely offline and ad-free. Regarding adding notes, it has never been straightforward like this. The app supports multi-language support (English, Russian, Korean, Uzbek). You can also set a PIN code to protect your notes.
+Notepad is completely offline and ad-free. Regarding adding notes, it has never been straightforward like this. The app supports multiple languages (English, Russian, Korean, Uzbek). You can also set a PIN code to protect your notes.
 
 - **11 000+ downloads in Google Play Store so far**
 - **4.3 overall stars in Google Play Store**
