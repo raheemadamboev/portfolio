@@ -5,7 +5,7 @@ My portfolio consists of 4 main sections that are Android apps, Android librarie
 | Category | Count | Downloads |
 |----------|-------|-----------|
 | Production Android apps | 19 | 110k+ |
-| Hobby Android apps | 51 | - |
+| Hobby Android apps | 53 | - |
 | Android libraries | 3 | 1+ Github stars |
 | Hobby Backend apps | 4 | - |
 
