@@ -5,7 +5,7 @@ My portfolio consists of 4 main sections that are Android apps, Android librarie
 | Category | Count | Downloads |
 |----------|-------|-----------|
 | Production Android apps | 19 | 110k+ |
-| Hobby Android apps | 53 | - |
+| Hobby Android apps | 54 | - |
 | Android libraries | 3 | 1+ Github stars |
 | Hobby Backend apps | 4 | - |
 
@@ -564,6 +564,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **70** | **Jetpack Compose Codelab 2** | Jetpack Compose codelab from Google. Creating custom layout. | Jetpack Compose... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/jetpack-compose-codelab-2) |
 | **71** | **Java Data Structures** | Different ways that we can store and manipulate data in Java. | Java... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/java-data-structures) |
 | **72** | **Kotlin Flows** | Plain app to demonstrate Kotlin Flow API with Jetpack Compose as well as Unit testing them with Turbine API... | Kotlin Coroutines, Jetpack Compose, Kotlin Flow, State, StateFlow, SharedFlow, Channel, Unit testing Flow with Turbine API... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/kotlin-flows) |
+| **73** | **Kotlin Coroutines 5 Mistakes** | This is 5 Kotlin Coroutines mistakes that we must avoid. | Kotlin Coroutines... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/kotlin-coroutines-5-mistakes) |
 
 # Android Libraries
 
