@@ -1,13 +1,16 @@
 # Portfolio of Raheem
 
-My portfolio consists of 4 main sections that are Android apps, Android libraries, Backend apps, and achievements. I organized them in a clean way. Each app has a title, navigation (URL links), a short description, and tech stack. Some of them also have achievements that are written in bold. There are 3 available navigations that are Google Play Store, Huwaei App Gallery, and GitHub. Google Play Store and Huawei App Gallery navigations have a link to the production app. I really tried to write a short description as not technical as possible, so if you want to read the technical description, please kindly navigate to the app's GitHub navigation. There you can find the full technical description, tech stack, commits I made with the timestamp, full source code, and demo app that you can use. Obsession, passion, consistency and focus is the key to success!
+My portfolio consists of 7 main sections that are Android apps, Android libraries, Backend apps, Programming Language and Algorithms playground, React Native apps, Desktop apps, and achievements. I organized them in a clean way. Each app has a title, navigation (URL links), a short description, and tech stack. Some of them also have achievements that are written in bold. There are 3 available navigations that are Google Play Store, Huwaei App Gallery, and GitHub. Google Play Store and Huawei App Gallery navigations have a link to the production app. I really tried to write a short description as not technical as possible, so if you want to read the technical description, please kindly navigate to the app's GitHub navigation. There you can find the full technical description, tech stack, commits I made with the timestamp, full source code, and demo app that you can use. Obsession, passion, consistency and focus is the key to success!
 
 | Category | Count | Downloads |
 |----------|-------|-----------|
-| Production Android apps | 19 | 110k+ |
-| Hobby Android apps | 57 | - |
+| Production Android apps | 19 | 150k+ |
+| Hobby Android apps | 56 | 12+ Github stars |
 | Android libraries | 3 | 1+ Github stars |
-| Hobby Backend apps | 4 | - |
+| Hobby Backend apps | 5 | 4+ Github stars |
+| Programming Language and Algorithms playgrounds | 3 | - |
+| Hobby React Native apps | 4 | - |
+| Hobby Desktop apps | 1 | - |
 
 # Android apps
 
