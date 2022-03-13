@@ -562,12 +562,11 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **68** | **Android Task Alif Tech** | This is a task provided by Alif Tech for the Android developer position. | Clean Architecture, MVVM, Dependency Injection (Hilt), Jetpack Navigation Component, Kotlin Coroutines, Git, Room, Material Design, Retrofit, Flow, StateFlow, ViewBinding, Glide... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/android-task-alif-tech) |
 | **69** | **Jetpack Compose Codelab 1** | Jetpack Compose codelab from Google. Simple expandable cards. | Jetpack Compose, Jetpack Compose Navigation... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/jetpack-compose-codelab-1) |
 | **70** | **Jetpack Compose Codelab 2** | Jetpack Compose codelab from Google. Creating custom layout. | Jetpack Compose... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/jetpack-compose-codelab-2) |
-| **71** | **Java Data Structures** | Different ways that we can store and manipulate data in Java. | Java... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/java-data-structures) |
-| **72** | **Kotlin Flows** | Plain app to demonstrate Kotlin Flow API with Jetpack Compose as well as Unit testing them with Turbine API... | Kotlin Coroutines, Jetpack Compose, Kotlin Flow, State, StateFlow, SharedFlow, Channel, Unit testing Flow with Turbine API... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/kotlin-flows) |
-| **73** | **Kotlin Coroutines 5 Mistakes** | This is 5 Kotlin Coroutines mistakes that we must avoid. | Kotlin Coroutines... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/kotlin-coroutines-5-mistakes) |
-| **74** | **Process Death** | Plain app to demonstrate handling process death | Jetpack Viewmodel, SavedStateHandle... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/process-death) |
-| **75** | **Leak Canary** | Plain app to demonstrate Leak Canary library in order to determine possible memory leaks | Leak Canary... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/leak-canary) |
-| **76** | **Jetpack Compose Codelab 3** | Jetpack Compose ToDO application by Google Codelab | Jetpack Compose, MVVM, Kotlin Coroutines, Unit testing, UI testing... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/jetpack-compose-codelab-3) |
+| **71** | **Kotlin Flows** | Plain app to demonstrate Kotlin Flow API with Jetpack Compose as well as Unit testing them with Turbine API... | Kotlin Coroutines, Jetpack Compose, Kotlin Flow, State, StateFlow, SharedFlow, Channel, Unit testing Flow with Turbine API... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/kotlin-flows) |
+| **72** | **Kotlin Coroutines 5 Mistakes** | This is 5 Kotlin Coroutines mistakes that we must avoid. | Kotlin Coroutines... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/kotlin-coroutines-5-mistakes) |
+| **73** | **Process Death** | Plain app to demonstrate handling process death | Jetpack Viewmodel, SavedStateHandle... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/process-death) |
+| **74** | **Leak Canary** | Plain app to demonstrate Leak Canary library in order to determine possible memory leaks | Leak Canary... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/leak-canary) |
+| **75** | **Jetpack Compose Codelab 3** | Jetpack Compose ToDO application by Google Codelab | Jetpack Compose, MVVM, Kotlin Coroutines, Unit testing, UI testing... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/jetpack-compose-codelab-3) |
 
 # Android Libraries
 
@@ -586,7 +585,29 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **3** | **Footballers REST API** | KTOR REST API to give random football players images and data. | KTOR... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/footballers-rest-api) |
 | **4** | **Notification REST API** | Basic KTOR built REST API server to send requests to ONE SIGNAL and communicate with Android client app. | KTOR, KTOR Client, One Signal, Kotlin Serialization... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/notification-rest-api) |
 | **5** | **GoTest Web** | I wrote Firebase Cloud Functions with JavaScript in the Node.js environment. I also deployed them to Google Cloud. They run automatically in Google Servers with the schedule. | JavaScript, Firebase Cloud Functions | - |
-| **6** | **JavaScript Playground** | JavaScript playground to play with JavaScript. | Foundation, Modules, Syntax, Functions, Methods, Objects, Classes, Promises, Generators, Async and Await... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/javascript-playground) |
+
+# Programming language and algorithm playgrounds
+
+| № | Name | Description | Tech stack | Navigation |
+|---|------|-------------|------------|------------|
+| **1** | **JavaScript Playground** | JavaScript playground to play with JavaScript. | Foundation, Modules, Syntax, Functions, Methods, Objects, Classes, Promises, Generators, Async and Await... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/javascript-playground) |
+| **2** | **Java Data Structures** | Different ways that we can store and manipulate data in Java. | Java... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/java-data-structures) |
+| **3** | **TypeScript Playground** | TypeScript playground to play with TypeScript! | TypeScript | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/typescript-playground) |
+
+# React Native Applications
+
+| № | Name | Description | Tech stack | Navigation |
+|---|------|-------------|------------|------------|
+| **1** | **First React Native App** | This is a plain first React Native app that is developed by me | React Native, React Hooks | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/first-react-native-app) |
+| **2** | **React Native ToDo API App** | Simple React Native app that gets data from REST API using Fetch API written in TypeScript | React Native, Fetch API, React Hooks | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/react-native-todo-api-app) |
+| **3** | **Guess My Number** | React Native app that tries to guess your number written in TypeScript | React Native, React Hooks | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/guess-my-number) |
+| **4** | **Goal Tracker** | Simple React Native app that tracks your goals | React Native, React Hooks | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/goal-tracker) |
+
+# Jetpack Compose Desktop Applications
+
+| № | Name | Description | Tech stack | Navigation |
+|---|------|-------------|------------|------------|
+| **1** | **Stopwatch Desktop** | Simple Stopwatch Desktop application that is written using Jetpack Compose, Kotlin Coroutines... | Jetpack Compose, Kotlin Coroutines... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/stopwatch-desktop) |
 
 # Achievements
 
