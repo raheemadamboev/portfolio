@@ -120,7 +120,7 @@ MVVM, Hilt Dependency Injection, Jetpack Navigation Component, Glide, Exoplayer,
 ## 6. ToDo
 
 <p align="center">
- <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/ToDo.jpg" width="869" height="416" />
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/ToDo%201.1.jpg" width="869" height="416" />
 </p>
  
 <p align="center">
@@ -135,9 +135,9 @@ MVVM, Hilt Dependency Injection, Jetpack Navigation Component, Glide, Exoplayer,
  </a>
 </p>
 
-A beautifully simple to-do list app. ToDo is a simple tasks list app that emphasizes simplicity and ease of use. The app supports multi-language (English, Russian, Uzbek). 
+A beautifully simple ToDo application that emphasises simplicity and ease of use. Whether you want a shopping list, grocery list or you just have lots of things to remember ToDo is built for you. ToDo is fully offline as it does not require internet connection. Also, ToDo is very fast and very light! The size of APK is lighter than 2 MB. It also supports Dark Mode and multiple languages (English, Russian, Uzbek).
 
-MVVM, Firebase, R8, Hilt Dependency Injection, Jetpack Navigation Component, Kotlin Coroutines, Room, Jetpack DataStore Preferences, ViewBinding, Flow, StateFlow, Channel, Process Death Handling, Material Design, Git...
+Jetpack Compose, Compose Destinations, MVVM, Firebase, R8, Hilt Dependency Injection, Kotlin Coroutines, Room, Jetpack DataStore Preferences, Flow, StateFlow, Channel, Process Death Handling, Material Design, Git...
 
 ## 7. Note Taker
 
