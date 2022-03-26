@@ -1,6 +1,6 @@
 # Portfolio of Raheem
 
-My portfolio consists of 7 main sections that are Android apps, Android libraries, Backend apps, Programming Language and Algorithms playground, React Native apps, Desktop apps, and achievements. I organized them in a clean way. Each app has a title, navigation (URL links), a short description, and tech stack. Some of them also have achievements that are written in bold. There are 3 available navigations that are Google Play Store, Huwaei App Gallery, and GitHub. Google Play Store and Huawei App Gallery navigations have a link to the production app. I really tried to write a short description as not technical as possible, so if you want to read the technical description, please kindly navigate to the app's GitHub navigation. There you can find the full technical description, tech stack, commits I made with the timestamp, full source code, and demo app that you can use. Obsession, passion, consistency and focus is the key to success!
+My portfolio consists of 8 main sections that are Android apps, Android libraries, Backend apps, Programming Language and Algorithms playground, Flutter apps, React Native apps, Desktop apps, and achievements. I organized them in a clean way. Each app has a title, navigation (URL links), a short description, and tech stack. Some of them also have achievements that are written in bold. There are 3 available navigations that are Google Play Store, Huwaei App Gallery, and GitHub. Google Play Store and Huawei App Gallery navigations have a link to the production app. I really tried to write a short description as not technical as possible, so if you want to read the technical description, please kindly navigate to the app's GitHub navigation. There you can find the full technical description, tech stack, commits I made with the timestamp, full source code, and demo app that you can use. Obsession, passion, consistency and focus is the key to success!
 
 | Category | Count | Downloads |
 |----------|-------|-----------|
@@ -9,6 +9,7 @@ My portfolio consists of 7 main sections that are Android apps, Android librarie
 | Android libraries | 3 | 1+ Github stars |
 | Hobby Backend apps | 5 | 4+ Github stars |
 | Programming Language and Algorithms playgrounds | 3 | - |
+| Hobby Flutter apps | 1 | - |
 | Hobby React Native apps | 4 | - |
 | Hobby Desktop apps | 1 | - |
 
@@ -587,6 +588,9 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **90** | **Plain Todo** | Plain Jetpack Compose Todo app that you can add, remove, update todos as data stored in Room | MVVM, Jetpack Compose, Kotlin Coroutines, Hilt Dependency Injection, Jetpack Navigation Compose, Kotlin Flow, Room... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/plain-todo) |
 | **91** | **Jetpack WorkManager** | Jetpack Compose app that downloads image from internet using Retrofit and Kotlin Coroutines in WorkManager and also applies custom color filter using Canvas | MVVM, Jetpack Compose, Hilt Dependency Injection, Jetpack WorkManager, Retrofit, Kotlin Coroutines, LiveData, State, Coil, Canvas... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/jetpack-workmanager) |
 | **92** | **Firebase Cloud Messaging** | Jetpack Compose app that can recieve or send push notifications over Firebase Cloud Messaging by connecting to Google APIs | MVVM, Jetpack Compose, Firebase Cloud Messaging, Retrofit, Hilt Dependency Injection, Kotlin Coroutines... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/firebase-cloud-messaging) |
+| **93** | **Calendar Integration** | MVVM application to read and write calendar events to device's database using Content Providers | MVVM, Hilt Dependency Injection, Kotlin Coroutines, Kotlin Flow, Material Design, ViewBinding... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/calendar-integration) |
+| **94** | **DataStore Proto** | Simple app to save data using Jetpack DataStore Proto | Jetpack DataStore Proto, Jetpack Compose, Kotlin Coroutines, Kotlin Flow... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/datastore-proto) |
+| **95** | **Motion Layout** | Plain app to use Motion Layout animations in Jetpack Compose | Jetpack Compose, Motion Layout, Animations, JSON5... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/motion-layout) |
 
 # Android Libraries
 
@@ -613,6 +617,13 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **1** | **JavaScript Playground** | JavaScript playground to play with JavaScript. | Foundation, Modules, Syntax, Functions, Methods, Objects, Classes, Promises, Generators, Async and Await... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/javascript-playground) |
 | **2** | **Java Data Structures** | Different ways that we can store and manipulate data in Java. | Java... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/java-data-structures) |
 | **3** | **TypeScript Playground** | TypeScript playground to play with TypeScript! | TypeScript | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/typescript-playground) |
+| **4** | **Dart Playground** | This is a playground to learn Dart programming language! | Dart | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/dart-playground) |
+
+# Flutter Applications
+
+| № | Name | Description | Tech stack | Navigation |
+|---|------|-------------|------------|------------|
+| **1** | **WordPair Generator** | Flutter app to get and save word pairs | Flutter, Dart, Navigation, Material Design... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/word-pair-generator) |
 
 # React Native Applications
 
