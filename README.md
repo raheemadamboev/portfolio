@@ -618,6 +618,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **2** | **Java Data Structures** | Different ways that we can store and manipulate data in Java. | Java... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/java-data-structures) |
 | **3** | **TypeScript Playground** | TypeScript playground to play with TypeScript! | TypeScript | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/typescript-playground) |
 | **4** | **Dart Playground** | This is a playground to learn Dart programming language! | Dart | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/dart-playground) |
+| **5** | **Learning Git** | This is plain repository for learning git! | Git | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/learning-git) |
 
 # Flutter Applications
 
