@@ -591,6 +591,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **93** | **Calendar Integration** | MVVM application to read and write calendar events to device's database using Content Providers | MVVM, Hilt Dependency Injection, Kotlin Coroutines, Kotlin Flow, Material Design, ViewBinding... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/calendar-integration) |
 | **94** | **DataStore Proto** | Simple app to save data using Jetpack DataStore Proto | Jetpack DataStore Proto, Jetpack Compose, Kotlin Coroutines, Kotlin Flow... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/datastore-proto) |
 | **95** | **Motion Layout** | Plain app to use Motion Layout animations in Jetpack Compose | Jetpack Compose, Motion Layout, Animations, JSON5... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/motion-layout) |
+| **96** | **Bottom Navigation Result** | Using nested graphs, getting result back from compose directions (screens) and bottom bar in Compose Directions API | Jetpack Compose, Compose Destinations, Jetpack Compose Navigation, Material Design... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/bottom-navigation-result) |
 
 # Android Libraries
 
