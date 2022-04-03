@@ -5,11 +5,11 @@ My portfolio consists of 8 main sections that are Android apps, Android librarie
 | Category | Count | Downloads |
 |----------|-------|-----------|
 | Production Android apps | 19 | 150k+ |
-| Hobby Android apps | 73 | 12+ Github stars |
+| Hobby Android apps | 74 | 20+ Github stars |
 | Android libraries | 3 | 1+ Github stars |
-| Hobby Backend apps | 5 | 4+ Github stars |
-| Programming Language and Algorithms playgrounds | 3 | - |
-| Hobby Flutter apps | 1 | - |
+| Hobby Backend apps | 5 | 10+ Github stars |
+| Programming Language and Algorithms playgrounds | 5 | - |
+| Hobby Flutter apps | 2 | - |
 | Hobby React Native apps | 4 | - |
 | Hobby Desktop apps | 1 | - |
 
