@@ -253,7 +253,7 @@ Console application to save multiple-choice questions to database easily.
 
 MVVM, Firebase, Kotlin Coroutines, Room, Hilt Dependency Injection, ViewBinding, Flow, StateFlow, Channel, Material Design, Git...
 
-# Production Android apps
+# Hobby Android apps
 
 ## 1. Note Taker
 
