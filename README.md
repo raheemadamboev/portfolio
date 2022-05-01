@@ -6,7 +6,7 @@ _Obsession, passion, and consistency!_
 
 | Category | Count | Downloads |
 |----------|-------|-----------|
-| Production Android apps | 13 | 150k+ |
+| <a href="https://github.com/raheemadamboev/portfolio/blob/main/README.md#production-android-apps">Production Android apps</a> | 13 | 150k+ |
 | Hobby Android apps | 74 | 20+ Github stars |
 | Android libraries | 3 | 1+ Github stars |
 | Hobby Backend apps | 5 | 10+ Github stars |
