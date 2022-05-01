@@ -7,7 +7,7 @@ _Obsession, passion, and consistency!_
 | Section | Count | Downloads |
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio/blob/main/README.md#production-android-apps">Production Android apps</a> | 13 | 140 000+ |
-| <a href="https://github.com/raheemadamboev/portfolio#production-android-apps-1">Hobby Android apps</a> | 74 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#production-android-apps-1">Hobby Android apps</a> | 83 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#android-libraries">Android libraries</a> | 3 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 5 | - |
