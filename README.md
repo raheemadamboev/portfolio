@@ -6,14 +6,14 @@ _Obsession, passion, and consistency!_
 
 | Section | Count | Downloads |
 |----------|-------|-----------|
-| <a href="https://github.com/raheemadamboev/portfolio/blob/main/README.md#production-android-apps">Production Android apps</a> | 13 | 150k+ |
-| Hobby Android apps | 74 | 20+ Github stars |
-| Android libraries | 3 | 1+ Github stars |
-| Hobby Backend apps | 5 | 10+ Github stars |
-| Programming Language and Algorithm playgrounds | 5 | - |
-| Hobby Flutter apps | 2 | - |
-| Hobby React Native apps | 4 | - |
-| Hobby Desktop apps | 1 | - |
+| <a href="https://github.com/raheemadamboev/portfolio/blob/main/README.md#production-android-apps">Production Android apps</a> | 13 | 140 000+ |
+| <a href="https://github.com/raheemadamboev/portfolio#production-android-apps-1">Hobby Android apps</a> | 74 | 20+ Github stars |
+| <a href="https://github.com/raheemadamboev/portfolio#android-libraries">Android libraries</a> | 3 | 1+ Github stars |
+| <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | 10+ Github stars |
+| <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 5 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#flutter-applications">Hobby Flutter apps<a/> | 2 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#react-native-applications">Hobby React Native apps<a/> | 4 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#jetpack-compose-desktop-applications">Hobby Desktop apps<a/> | 1 | - |
 
 # Production Android apps
 
@@ -667,6 +667,7 @@ when(education) {
 
 ```json
 {
+   "blog": "https://telegram.me/raheem_adamboev",
    "github": "https://github.com/raheemadamboev",
    "stack_overflow": "https://stackoverflow.com/users/14621813/raheem",
    "google_play_store": "https://play.google.com/store/apps/dev?id=5173702047357476752",
