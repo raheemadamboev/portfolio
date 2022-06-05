@@ -7,7 +7,7 @@ _Obsession, passion, and consistency!_
 | Section | Count | Downloads |
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio/blob/main/README.md#production-android-apps">Production Android apps</a> | 13 | 140 000+ |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-android-apps">Hobby Android apps</a> | 92 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-android-apps">Hobby Android apps</a> | 93 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#android-libraries">Android libraries</a> | 3 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 5 | - |
@@ -610,6 +610,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **90** | **Online Video Player** | Jetpack Compose app that plays videos over network | Clean Architecture, MVVM, Retrofit2, Timber, Kotlin Coroutines, Exoplayer2, Coil, Kotlin Serialization, Jetpack Compose, Kotlin Flows, Hilt Dependency Injection, Jetpack Compose Navigation, Material3, Jetpack Paging3, Compose Paging... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/online-video-player) |
 | **91** | **Koin Demo** | Plain app to use Koin dependency injection framework | Koin, Jetpack Compose, ViewModel... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/koin-demo) |
 | **92** | **Light Sensor** | Jetpack Compose app that displays light sensor data | Clean Architecture, MVVM, Material3, Sensor, Jetpack Compose, Hilt Dependency Injection... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/light-sensor) |
+| **93** | **Material 3 Demo** | Jetpack Compose app that uses Material Design 3 (Material You), dynamic colors, components... | Jetpack Compose, Material3, MVVM, Dynamic Colors... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/material3-demo) |
  
 # Android Libraries
 
