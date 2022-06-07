@@ -7,7 +7,7 @@ _Obsession, passion, and consistency!_
 | Section | Count | Downloads |
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio/blob/main/README.md#production-android-apps">Production Android apps</a> | 13 | 140 000+ |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-android-apps">Hobby Android apps</a> | 93 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-android-apps">Hobby Android apps</a> | 97 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#android-libraries">Android libraries</a> | 3 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 5 | - |
@@ -611,6 +611,10 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **91** | **Koin Demo** | Plain app to use Koin dependency injection framework | Koin, Jetpack Compose, ViewModel... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/koin-demo) |
 | **92** | **Light Sensor** | Jetpack Compose app that displays light sensor data | Clean Architecture, MVVM, Material3, Sensor, Jetpack Compose, Hilt Dependency Injection... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/light-sensor) |
 | **93** | **Material 3 Demo** | Jetpack Compose app that uses Material Design 3 (Material You), dynamic colors, components... | Jetpack Compose, Material3, MVVM, Dynamic Colors... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/material3-demo) |
+| **94** | **Compose Bottom Sheet** | Jetpack Compose app that uses Material 2 Bottom Sheet | Jetpack Compose, Material2, BottomSheet... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/compose-bottom-sheet) |
+| **95** | **Compose Material 2 Drawer** | Jetpack Compose app that uses Material 2 Navigation Drawer | Jetpack Compose, Material2, MVVM, NavigationDrawer... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/compose-material2-drawer) |
+| **96** | **Compose Dismissible Drawer** | Jetpack Compose app that uses Material 3 Dismissible Navigation Drawer | Jetpack Compose, MVVM, Material3, NavigationDrawer... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/compose-dismissible-drawer) |
+| **97** | **Compose Modal Drawer** | Jetpack Compose app that uses Material 3 Modal Navigation Drawer | Jetpack Compose, MVVM, Material3, NavigationDrawer... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/compose-modal-drawer) |
  
 # Android Libraries
 
