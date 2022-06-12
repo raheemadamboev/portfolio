@@ -155,7 +155,7 @@ MVVM, Hilt Dependency Injection, Jetpack Navigation Component, Glide, Exoplayer,
 
 A beautifully simple ToDo application that emphasises simplicity and ease of use. Whether you want a shopping list, grocery list or you just have lots of things to remember ToDo is built for you. ToDo is fully offline as it does not require internet connection. Also, ToDo is very fast and very light! The size of APK is lighter than 2 MB. It also supports Dark Mode and multiple languages (English, Russian, Uzbek).
  
-_The UI of the app was originally made by Material 2 XML. It has been migrated to Jetpack Compose from scratch completely. You can see XML app in 6B which is above 6A._
+_The app was originally made by Material 2 XML. It has been migrated to Jetpack Compose from scratch completely. You can see XML app in 6B which is above 6A._
 
 Jetpack Compose, Compose Destinations, MVVM, Firebase, R8, Hilt Dependency Injection, Kotlin Coroutines, Room, Jetpack DataStore Preferences, Flow, StateFlow, Channel, Process Death Handling, Material Design, Git...
  
@@ -182,10 +182,10 @@ Jetpack Compose, Compose Destinations, MVVM, Firebase, R8, Hilt Dependency Injec
 
 Notepad is completely offline and ad-free. Regarding adding notes, it has never been straightforward like this. The app supports multiple languages (English, Russian, Korean, Uzbek). You can also set a PIN code to protect your notes.
 
-- **17 000+ downloads in Google Play Store so far**
+- **20 000+ downloads in Google Play Store so far**
 - **4.3 overall stars in Google Play Store**
 
-MVVM, Git, Material Design, Room, Threading, R8...
+MVVM, Git, Material Design, Room, Threading, R8, Custom Views...
 
 ## 8. StockX Pro
 
@@ -199,7 +199,7 @@ MVVM, Git, Material Design, Room, Threading, R8...
  </a>
 </p>
 
-This is the best app to manage your inventory. This app has many features to save you time and automate your job. You can add inventory, sell. You can also add sizes to inventory and you can share QR codes of products. You can use your sale data with the calendar. You can back up your data and you can convert your data to an Excel file. The app supports multi-language (English, Russian, Uzbek). There are more features...
+This is the best app to manage your inventory. This app has many features to save your time and automate your job. You can add inventory and sell. You can also add sizes to inventory and you can share QR codes of products. You can use your sale data with the calendar. You can back up your data and you can convert your data to an Excel file. The app supports multi-language (English, Russian, Uzbek). There are more features...
 
 - **1 500+ downloads in Google Play Store so far**
 - **4.6 overall stars in Google Play Store**
@@ -221,7 +221,7 @@ MVVM, Material Design, Room, Git, ViewBinding, Firebase, QR Code, Excel, Google 
 This app helps people who want to learn English irregular verbs by playing interactive quiz games and searching irregular verbs by name and definition. The app supports multiple languages (English, Uzbek, Russian). Also, it is fully offline, lightweight, extremely easy to use.
 
 - **4 000+ downloads in Google Play Store so far**
-- **4.7 overall stars in Google Play Store**
+- **4.6 overall stars in Google Play Store**
 
 MVVM, Room, Firebase, Git, R8, Jetpack Navigation Component, Hilt Dependency Injection, Kotlin Coroutines, ViewBinding, Animations, Exoplayer, Admob...
 
