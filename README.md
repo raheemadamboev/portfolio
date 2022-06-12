@@ -132,7 +132,7 @@ This app plays audio of "Kichkina Shahzoda" novel from the server online. It is 
 
 MVVM, Hilt Dependency Injection, Jetpack Navigation Component, Glide, Exoplayer, Kotlin Coroutines, ViewBinding, Git, Material Design, Firebase, Music Notification...
 
-## 6. ToDo
+## 6A. ToDo (Jetpack Compose, Material 2)
 
 <p align="center">
  <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/ToDo%201.1.jpg" width="869" height="416" />
@@ -154,8 +154,16 @@ MVVM, Hilt Dependency Injection, Jetpack Navigation Component, Glide, Exoplayer,
 - **5 overall stars in Google Play Store**
 
 A beautifully simple ToDo application that emphasises simplicity and ease of use. Whether you want a shopping list, grocery list or you just have lots of things to remember ToDo is built for you. ToDo is fully offline as it does not require internet connection. Also, ToDo is very fast and very light! The size of APK is lighter than 2 MB. It also supports Dark Mode and multiple languages (English, Russian, Uzbek).
+ 
+_The UI of the app was originally made by Material 2 XML. It has been migrated to Jetpack Compose from scratch completely. You can see XML app in 6B which is above 6A._
 
 Jetpack Compose, Compose Destinations, MVVM, Firebase, R8, Hilt Dependency Injection, Kotlin Coroutines, Room, Jetpack DataStore Preferences, Flow, StateFlow, Channel, Process Death Handling, Material Design, Git...
+ 
+## 6B. ToDo (XML, Material 2)
+
+<p align="center">
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/ToDo.jpg" width="869" height="416" />
+</p>
 
 ## 7. Notepad
 
