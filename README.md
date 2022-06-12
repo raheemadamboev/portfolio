@@ -291,17 +291,13 @@ I worked with client very well. We communicated and made everything clear from t
  
 The app is for people who wants to play "Zakovat" and get "Zakovat" questions with answers. The UI is modern and easy to use. The app also has "Zakovat" timer and many more useful functions. All the questions are stored in the server and locally stored once it is downloaded.
  
-MVVM, Firebase, Google authentication, Kotlin Coroutines, Kotlin Flows, Room, Hilt Dependency Injection, Jetpack Navigation Component, ActivityX, FragmentX, Jetpack Paging, GSON, Exoplayer2, Glide, Animations, ViewBinding, Material 2, Robust to configuration changes and process death...
+MVVM, Firebase, Google authentication, Kotlin Coroutines, Kotlin Flows, Room, Hilt Dependency Injection, R8, Git, ProGuard, Jetpack Navigation Component, ActivityX, FragmentX, Jetpack Paging, GSON, Exoplayer2, Glide, Animations, ViewBinding, Material 2, Robust to configuration changes and process death...
 
 ### B. ZakoWatt Console 
  
-<p align="center">
- <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/ZakoWatt.jpg" width="869" height="416" />
-</p>
- 
 Console app for ZakoWatt. So the owner can manage his project. He can manage resources, payments, users, and others that is connected to the server.
  
-MVVM, Firebase, Google authentication, Kotlin Coroutines, Kotlin Flows, Room, Hilt Dependency Injection, Jetpack Navigation Component, ActivityX, FragmentX, Jetpack Paging, GSON, Exoplayer2, Glide, Animations, ViewBinding, Material 2, Robust to configuration changes and process death...
+MVVM, Firebase, Kotlin Coroutines, Kotlin Flows, Room, Hilt Dependency Injection, ActivityX, Jetpack Paging, Glide, Animations, ViewBinding, Material 2, Robust to configuration changes and process death...
 
 # Hobby Android apps
 
