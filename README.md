@@ -31,7 +31,7 @@ _Obsession, passion, and consistency!_
 
 One of the biggest educational platform to study in Uzbekistan. You can solve multiple-choice questions from more than 8 subjects and more than 100 000 questions, also you can get full results of your work. Furthermore, you can take mock exams and prepare for the actual exam. And, there is more to get from GoTest.
 
-- **90 000+ downloads in Google Play Store so far**
+- **97 000+ downloads in Google Play Store so far**
 - **4.4 overall stars in Google Play Store**
 - **Top 3 grossing educational apps in Uzbekistan**
 - **2 000+ daily active users in August 2021**
