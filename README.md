@@ -29,7 +29,7 @@ _Obsession, passion, and consistency!_
  </a>
 </p>
 
-One of the biggest educational platform to study in Uzbekistan. You can solve multiple-choice questions from more than 8 subjects and more than 100 000 questions, also you can get full results of your work. Furthermore, you can take mock exams and prepare for the actual exam. And, there is more to get from GoTest.
+GoTest is one of the biggest educational platform to study in Uzbekistan. You can solve multiple-choice questions from more than 8 subjects and more than 100 000 questions. Also, you can get full results of your work. Furthermore, you can take mock exams and prepare for the actual exam. And, there are even more to get from GoTest.
 
 - **97 000+ downloads in Google Play Store so far**
 - **4.4 overall stars in Google Play Store**
@@ -51,7 +51,7 @@ MVVM, Jetpack Navigation Component, Room, Flow, StateFlow, Channel, Git, R8, Fir
  </a>
 </p>
 
-- **250+ downloads in Google Play Store so far**
+- **300+ downloads in Google Play Store so far**
 - **5 overall stars in Google Play Store**
 
 MVVM Android application to solve English grammar multiple-choice questions. You can improve your English grammar skills by using the application daily. Application is fully robust to configuration changes and process deaths. Different screen layouts are made for different orientations. Custom views are created. 
@@ -73,10 +73,10 @@ MVVM, Firebase, Room, Kotlin Coroutines, Hilt Dependency Injection, Jetpack Navi
  </a>
 </p>
 
-This app helps people who want to learn bookkeeping special account codes by playing interactive quiz games and searching account codes by content and numbers. The app supports multiple languages (Uzbek, Russian). Also, it is fully offline, lightweight, and extremely easy to use.
+This app helps people who want to learn bookkeeping special account codes. Users can play interactive quiz games and search for account codes by content and numbers. The app supports multiple languages (Uzbek, Russian). Also, it is fully offline, lightweight, and extremely easy to use.
 
-- **10 000+ downloads in Google Play Store so far**
-- **4.8 overall stars in Google Play Store**
+- **12 000+ downloads in Google Play Store so far**
+- **4.7 overall stars in Google Play Store**
 
 MVVM, Room, Firebase, Git, R8, Jetpack Navigation Component, Hilt Dependency Injection, Kotlin Coroutines, ViewBinding, Animations, Exoplayer, Admob...
 
