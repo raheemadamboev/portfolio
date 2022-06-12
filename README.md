@@ -278,7 +278,7 @@ MVVM, Firebase, Kotlin Coroutines, Room, Hilt Dependency Injection, ViewBinding,
 
 - Worked and communicated with client very well
 - Satisfied and happy client
-- Finished before from tight deadline
+- Finished before tight deadline
 - Developed 2 native Android apps and 1 Firebase server from scratch
 - Created Google Cloud Console account
 - Created Google Play Developer account
