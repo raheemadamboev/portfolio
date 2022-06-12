@@ -1,6 +1,6 @@
 # Portfolio of Raheem
 
-The portfolio consists of 8 main sections. Short descriptions are written as not technical as possible, so if you want to read the technical description, please navigate to the Github page of the app. There you can find the full technical description, tech stack, commits I made with the timestamp, full source code, and demo app that you can use.
+The portfolio consists of 9 main sections. Short descriptions are written as not technical as possible, so if you want to read the technical description, please navigate to the Github page of the app. There you can find the full technical description, tech stack, commits I made with the timestamp, full source code, and demo app that you can use.
 
 _Obsession, passion, and consistency!_
 
@@ -270,6 +270,38 @@ MVVM, Firebase, Hilt Dependency Injection, Kotlin Coroutines, Glide, Git, ViewBi
 Console application to save multiple-choice questions to database easily.
 
 MVVM, Firebase, Kotlin Coroutines, Room, Hilt Dependency Injection, ViewBinding, Flow, StateFlow, Channel, Material Design, Git...
+ 
+# Freelance projects
+ 
+## 1. ZakoWatt
+
+I worked with client very well. We communicated and made everything clear from the start. I finished everything before from the deadline. The client was very satisfied and happy. I created him 2 native Android applications and Firebase server all from scratch. I also helped him to create Google Cloud Console and Google Play Developer Account. I also helped him to upload release app to Google Play Store. 
+
+### A. ZakoWatt - Zakovatda kuch
+ 
+<p align="center">
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/ZakoWatt.jpg" width="869" height="416" />
+</p>
+ 
+<p align="center">
+ <a href="https://play.google.com/store/apps/details?id=xyz.teamgravity.zakowatt">
+   <img src="https://img.shields.io/badge/Play Store-00875f?style=for-the-badge&logo=google&logoColor=white">
+ </a>
+</p>
+ 
+The app is for people who wants to play "Zakovat" and get "Zakovat" questions with answers. The UI is modern and easy to use. The app also has "Zakovat" timer and many more useful functions. All the questions are stored in the server and locally stored once it is downloaded.
+ 
+MVVM, Firebase, Google authentication, Kotlin Coroutines, Kotlin Flows, Room, Hilt Dependency Injection, Jetpack Navigation Component, ActivityX, FragmentX, Jetpack Paging, GSON, Exoplayer2, Glide, Animations, ViewBinding, Material 2, Robust to configuration changes and process death...
+
+### B. ZakoWatt Console 
+ 
+<p align="center">
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/ZakoWatt.jpg" width="869" height="416" />
+</p>
+ 
+Console app for ZakoWatt. So the owner can manage his project. He can manage resources, payments, users, and others that is connected to the server.
+ 
+MVVM, Firebase, Google authentication, Kotlin Coroutines, Kotlin Flows, Room, Hilt Dependency Injection, Jetpack Navigation Component, ActivityX, FragmentX, Jetpack Paging, GSON, Exoplayer2, Glide, Animations, ViewBinding, Material 2, Robust to configuration changes and process death...
 
 # Hobby Android apps
 
