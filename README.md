@@ -125,10 +125,10 @@ MVVM, Hilt Dependency Injection, Jetpack Navigation Component, Room, Firebase, V
  </a>
 </p>
 
-This app plays audio of "Kichkina Shahzoda" novel from the server online. It is easy to use and straightforward. You can easily control audio by notification.
+This app plays audio of "Kichkina Shahzoda" novel from the server online. It is easy to use. You can easily control audio by notification.
 
-- **6 000+ downloads in Google Play Store so far**
-- **4.1 overall stars in Google Play Store**
+- **8 000+ downloads in Google Play Store so far**
+- **4.3 overall stars in Google Play Store**
 
 MVVM, Hilt Dependency Injection, Jetpack Navigation Component, Glide, Exoplayer, Kotlin Coroutines, ViewBinding, Git, Material Design, Firebase, Music Notification...
 
