@@ -56,7 +56,7 @@ MVVM, Jetpack Navigation Component, Room, Flow, StateFlow, Channel, Git, R8, Fir
 
 MVVM Android application to solve English grammar multiple-choice questions. You can improve your English grammar skills by using the application daily. Application is fully robust to configuration changes and process deaths. Different screen layouts are made for different orientations. Custom views are created. 
 
-MVVM, Firebase, Room, Kotlin Coroutines, Hilt Dependency Injection, Jetpack Navigation Component, Admob, GSON, Jetpack WorkManager, Google Material Design, Flow, StateFlow, Channel, Animations, Custom Views, R8, ProGuard Rules, Git, ViewBinding, Notifications, Completely robust to configuration changes and process death, Different screen layouts.
+MVVM, Firebase, Room, Kotlin Coroutines, Hilt Dependency Injection, Jetpack Navigation Component, Admob, GSON, Jetpack WorkManager, Google Material Design, Flow, StateFlow, Channel, Animations, Custom Views, R8, ProGuard Rules, Git, ViewBinding, Notifications, Completely robust to configuration changes and process death, Different screen layouts...
 
 ## 3. Buxgalteriya schyotlar rejasi
 
@@ -80,10 +80,10 @@ This app helps people who want to learn bookkeeping special account codes. Users
 
 MVVM, Room, Firebase, Git, R8, Jetpack Navigation Component, Hilt Dependency Injection, Kotlin Coroutines, ViewBinding, Animations, Exoplayer, Admob...
 
-## 4. Alisher Navoiy asarlari va testlar
+## 4A. Alisher Navoiy asarlari va testlar (Flutter)
 
 <p align="center">
- <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/Alisher%20Navoi.jpg" width="869" height="416" />
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/Alisher%20Navoiy%20Flutter.jpg" width="869" height="416" />
 </p>
  
 <p align="center">
@@ -93,10 +93,20 @@ MVVM, Room, Firebase, Git, R8, Jetpack Navigation Component, Hilt Dependency Inj
 </p>
 
 This app is dedicated to Alisher Navoi. You can read all of his poems and artworks. Poems are organized very efficiently and the app shows your progress, also sorts them for your benefit. What's more, you can take quizzes from his life and work.
+ 
+_The app was originally made by Kotlin Native (XML). It is migrated to Flutter from scratch completely. You can see the native app in 4B above 4A._
 
 - **App won top 10 places in Uzbekistan tournament over 400 apps**
 - **10 000+ downloads in Google Play Store so far**
 - **4.3 overall stars in Google Play Store**
+
+Flutter, MVVM, AutoRoute, Bloc, Cubit, RxDart, Freezed, Drift, SQLite3, Path, Firebase, EasyLocalization, Injectable, GetIt, SharedPreferences, Logger, Custom Widgets, Animations, Custom themes, Robust to configuration changes...
+ 
+## 4B. Alisher Navoiy asarlari va testlar (Native Kotlin, XML)
+ 
+<p align="center">
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/Alisher%20Navoi.jpg" width="869" height="416" />
+</p>
 
 MVVM, Hilt Dependency Injection, Jetpack Navigation Component, Room, Firebase, ViewBinding, Git, Kotlin Coroutines, Material Design, Glide, R8, Handling configuration changes...
 
