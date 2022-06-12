@@ -94,7 +94,7 @@ MVVM, Room, Firebase, Git, R8, Jetpack Navigation Component, Hilt Dependency Inj
 
 This app is dedicated to Alisher Navoi. You can read all of his poems and artworks. Poems are organized very efficiently and the app shows your progress, also sorts them for your benefit. What's more, you can take quizzes from his life and work.
  
-_The app was originally made by Kotlin Native (XML). It has been migrated to Flutter from scratch completely. You can see the native app in 4B above 4A._
+_The app was originally made by Kotlin Native (XML). It has been migrated to Flutter from scratch completely. You can see the native app in 4B which is above 4A._
 
 - **App won top 10 places in Uzbekistan tournament over 400 apps**
 - **10 000+ downloads in Google Play Store so far**
