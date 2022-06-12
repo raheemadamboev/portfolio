@@ -276,7 +276,13 @@ MVVM, Firebase, Kotlin Coroutines, Room, Hilt Dependency Injection, ViewBinding,
  
 ## 1. ZakoWatt
 
-I worked with client very well. We communicated and made everything clear from the start. I finished everything before from the deadline. The client was very satisfied and happy. I created him 2 native Android applications and Firebase server all from scratch. I also helped him to create Google Cloud Console and Google Play Developer Account. I also helped him to upload release app to Google Play Store. 
+- Worked and communicated with client very well
+- Satisfied and happy client
+- Finished before from tight deadline
+- Developed 2 native Android apps and 1 Firebase server from scratch
+- Created Google Cloud Console account
+- Created Google Play Developer account
+- Uploaded release app to Google Play Store
 
 ### A. ZakoWatt - Zakovatda kuch
  
