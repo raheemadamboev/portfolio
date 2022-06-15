@@ -8,7 +8,7 @@ _Obsession, passion, and consistency!_
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 150 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-android-apps">Hobby Android apps</a> | 100 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-android-apps">Hobby Android apps</a> | 101 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#android-libraries">Android libraries</a> | 3 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 5 | - |
@@ -673,6 +673,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **98** | **Container Transform Transition** | Simple app that executes Material Container Transform transition between two fragments in Material 3 | MVVM, Animation, Transition, Kotlin Coroutines, Kotlin Flows, ViewBinding, Hilt Dependency Injection, Jetpack Navigation Component, Material3, Container Transform... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/container-transform-transition) |
 | **99** | **Container Transform Transition FAB** | Simple app that executes Material Container Transition between two fragments using FAB in Material 3 | Animation, Transition, ViewBinding, Jetpack Navigation Component, Material3, Container Transform... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/container-transform-transition-fab) |
 | **100** | **EventBus Demo** | Simple MVVM Java app to use EventBus | MVVM, Java, ViewBinding, EventBus, Material3... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/eventbus-demo) |
+| **101** | **LazyVerticalGrid** | Jetpack Compose app that uses Material 3 LazyVerticalGrid | Jetpack Compose, Material3, LazyVerticalGrid... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/lazy-vertical-grid) |
  
 # Android Libraries
 
