@@ -8,7 +8,7 @@ _Obsession, passion, and consistency!_
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 150 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-android-apps">Hobby Android apps</a> | 102 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-android-apps">Hobby Android apps</a> | 103 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#android-libraries">Android libraries</a> | 3 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 5 | - |
@@ -683,6 +683,8 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **100** | **EventBus Demo** | Simple MVVM Java app to use EventBus | MVVM, Java, ViewBinding, EventBus, Material3... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/eventbus-demo) |
 | **101** | **LazyVerticalGrid** | Jetpack Compose app that uses Material 3 LazyVerticalGrid | Jetpack Compose, Material3, LazyVerticalGrid... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/lazy-vertical-grid) |
 | **102** | **Flow Combine Zip Merge** | Basic app to show case combine, zip, merge flow transform functions | MVVM, Jetpack Compose, Material3, Kotlin Coroutines, Kotlin Flows... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/flow-combine-zip-merge) |
+| **103** | **Weather Forecast** | App to get today's weather forecast data from API and display it hourly | Clean Architecture, MVVM, Jetpack Compose, Material3, Hilt, Kotlin Coroutines, Kotlin Flows, Retrofit2, Moshi, Accompanist Permissions API... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/weather-forecast) |
+
  
 # Android Libraries
 
