@@ -8,7 +8,7 @@ _Obsession, passion, and consistency!_
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 150 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-android-apps">Hobby Android apps</a> | 106 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-android-apps">Hobby Android apps</a> | 107 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#android-libraries">Android libraries</a> | 3 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 5 | - |
@@ -687,6 +687,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **104** | **CustomView Emotions** | App that displays custom emotion view that is created using Canvas, Paint and others | Material3, ViewBinding, Canvas, Paint, XML, Styleable... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/custom-view-emotions) |
 | **105** | **Room FTS4** | Simple app that uses Full Text Search 4 on Room | MVVM, Jetpack Compose, Material3, Hilt, Room, FTS4, Kotlin Coroutines, Kotlin Flows... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/room-fts4) |
 | **106** | **Room Backup** | App that generates random keys and (export/import)s database as a file using Room | MVVM, Jetpack Compose, Material3, Hilt, Room, Kotlin Coroutines, Kotlin Flows, Concurrency... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/room-backup) |
+| **107** | **Room SQLCipher** | A simple app that uses encrypted database via Room and SQLCipher | MVVM, Jetpack Compose, Material3, Hilt, Room, Kotlin Coroutines, Kotlin Flows, SQLCipher, Jetpack Security, Encryption... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/room-sqlcipher) |
  
 # Android Libraries
 
