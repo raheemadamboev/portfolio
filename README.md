@@ -8,7 +8,7 @@ _Obsession, passion, and consistency!_
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 150 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-android-apps">Hobby Android apps</a> | 110 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-android-apps">Hobby Android apps</a> | 112 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#android-libraries">Android libraries</a> | 3 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 5 | - |
@@ -691,6 +691,8 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **108** | **Room Paging3** | A simple app that paginates data from Room using Jetpack Paging 3 | MVVM, Jetpack Compose, Material3, Hilt, Room, Kotlin Coroutines, Kotlin Flows, Room Paging, Compose Paging, Jetpack Paging3, Pagination... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/room-paging3) |
 | **109** | **Room MultiProcess** | A simple app that uses Room in multiple processes | MVVM, Jetpack Compose, Material3, Hilt, Room, Kotlin Coroutines, Kotlin Flows, LifecycleService, Room Multiprocess, Multiprocessing... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/room-multi-process) |
 | **110** | **Room Trigger** | A simple app that uses SQL Triggers in Room | MVVM, Jetpack Compose, Material3, Hilt, Room, Kotlin Coroutines, Kotlin Flows, SQL Trigger, Room Trigger... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/room-trigger) |
+| **111** | **Predictive Back Gesture** | Jetpack Compose app that implements Android 13's predictive back gesture | Jetpack Compose, Material3, Predictive Back Gesture... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/predictive-back-gesture) |
+| **112** | **Predictive Back Gesture XML** | XML app that implements Android 13's predictive back gesture | ViewBinding, Material3, Predictive Back Gesture... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/predictive-back-gesture-xml) |
  
 # Android Libraries
 
