@@ -78,7 +78,7 @@ MVVM, Firebase, Room, Kotlin Coroutines, Hilt Dependency Injection, Jetpack Navi
 
 This app helps people who want to learn bookkeeping special account codes. Users can play interactive quiz games and search for account codes by content and numbers. The app supports multiple languages (Uzbek, Russian). Also, it is fully offline, lightweight, and extremely easy to use.
 
-- **12 000+ downloads in Google Play Store so far**
+- **13 000+ downloads in Google Play Store so far**
 - **4.7 overall stars in Google Play Store**
 
 MVVM, Room, Firebase, Git, R8, Jetpack Navigation Component, Hilt Dependency Injection, Kotlin Coroutines, ViewBinding, Animations, Exoplayer, Admob...
