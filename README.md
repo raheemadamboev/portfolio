@@ -8,7 +8,7 @@ _Obsession, passion, and consistency!_
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 175 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-android-apps">Hobby Android apps</a> | 114 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-android-apps">Hobby Android apps</a> | 115 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#android-libraries">Android libraries</a> | 3 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 5 | - |
@@ -695,6 +695,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **112** | **Predictive Back Gesture XML** | XML app that implements Android 13's predictive back gesture | ViewBinding, Material3, Predictive Back Gesture... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/predictive-back-gesture-xml) |
 | **113** | **Retrofit File Upload** | A simple app that uploads file to server using Retrofit2 | MVVM, Jetpack Compose, Hilt, Material3, Kotlin Coroutines, Retrofit2, OkHttp3... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/retrofit-upload-file) |
 | **114** | **Kotlin Delegation Android** | A simple app that implements Delegation design pattern in Kotlin | Jetpack Compose, Material3, Kotlin, Kotlin Delegation, Delegation Design Pattern, Lazy Design Pattern... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/kotlin-delegation-android) |
+| **115** | **Local Notification** | A simple app that posts interactive local notification | MVVM, Jetpack Compose, Material3, Hilt, Notification, Local Notification, BroadcastReceiver... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/local-notification) |
  
 # Android Libraries
 
