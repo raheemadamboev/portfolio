@@ -8,7 +8,7 @@ _Obsession, passion, and consistency!_
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 175 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-android-apps">Hobby Android apps</a> | 112 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-android-apps">Hobby Android apps</a> | 113 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#android-libraries">Android libraries</a> | 3 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 5 | - |
@@ -693,6 +693,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **110** | **Room Trigger** | A simple app that uses SQL Triggers in Room | MVVM, Jetpack Compose, Material3, Hilt, Room, Kotlin Coroutines, Kotlin Flows, SQL Trigger, Room Trigger... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/room-trigger) |
 | **111** | **Predictive Back Gesture** | Jetpack Compose app that implements Android 13's predictive back gesture | Jetpack Compose, Material3, Predictive Back Gesture... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/predictive-back-gesture) |
 | **112** | **Predictive Back Gesture XML** | XML app that implements Android 13's predictive back gesture | ViewBinding, Material3, Predictive Back Gesture... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/predictive-back-gesture-xml) |
+| **113** | **Retrofit File Upload** | A simple app that uploads file to server using Retrofit2 | MVVM, Jetpack Compose, Hilt, Material3, Kotlin Coroutines, Retrofit2, OkHttp3... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/retrofit-upload-file) |
  
 # Android Libraries
 
