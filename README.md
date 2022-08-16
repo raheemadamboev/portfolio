@@ -61,10 +61,10 @@ MVVM Android application to solve English grammar multiple-choice questions. You
 
 MVVM, Firebase, Room, Kotlin Coroutines, Hilt Dependency Injection, Jetpack Navigation Component, Admob, GSON, Jetpack WorkManager, Google Material Design, Flow, StateFlow, Channel, Animations, Custom Views, R8, ProGuard Rules, Git, ViewBinding, Notifications, Completely robust to configuration changes and process death, Different screen layouts...
 
-## 3. Buxgalteriya schyotlar rejasi
+## 3A. Buxgalteriya schyotlar rejasi (Material3)
 
 <p align="center">
- <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/Uzbekistan%20Accounting%20Codes.jpg" width="869" height="416" />
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/Uzbekistan%20Accounting%20Codes%201.1.0.jpg" width="869" height="416" />
 </p>
  
 <p align="center">
@@ -81,7 +81,15 @@ This app helps people who want to learn bookkeeping special account codes. Users
 - **13 000+ downloads in Google Play Store so far**
 - **4.7 overall stars in Google Play Store**
 
-MVVM, Room, Firebase, Git, R8, Jetpack Navigation Component, Hilt Dependency Injection, Kotlin Coroutines, ViewBinding, Animations, Exoplayer, Admob...
+MVVM, Material3, Firebase, Room, Hilt, Jetpack Navigation Component, Jetpack DataStore Preferences, ViewBinding, Git, R8, Exoplayer2, Admob, Kotlin Coroutines, Kotlin Flows, Timber, Animations, Handling Configuration Changes, Adaptive Layouts... 
+
+## 3B. Buxgalteriya schyotlar rejasi (Material2)
+
+<p align="center">
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/Uzbekistan%20Accounting%20Codes.jpg" width="869" height="416" />
+</p>
+
+MVVM, Material2, Room, Firebase, Git, R8, Jetpack Navigation Component, Hilt Dependency Injection, Kotlin Coroutines, ViewBinding, Animations, Exoplayer2, Admob...
 
 ## 4A. Alisher Navoiy asarlari va testlar (Flutter)
 
