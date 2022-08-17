@@ -40,7 +40,7 @@ GoTest is one of the biggest educational platform to study in Uzbekistan. You ca
 - **2 000+ daily active users in August 2021**
 - **Reached 1st place in educational apps in Google Play Store in August 2021**
 
-MVVM, Jetpack Navigation Component, Room, Flow, StateFlow, Channel, Git, R8, Firebase, Kotlin Coroutines, Hilt Dependency Injection, Glide, Click Payment SDK, ViewBinding, Jetpack Paging, Material Design, Custom views, Animations, Threading, Deployment of Firebase Cloud Functions via JavaScript, Custom and Google authentication...
+MVVM, Jetpack Navigation Component, Room, Kotlin Flows, Git, R8, Firebase, Kotlin Coroutines, Hilt Dependency Injection, Glide, Click Payment SDK, ViewBinding, Jetpack Paging, Material Design, Custom views, Animations, Threading, Deployment of Firebase Cloud Functions via JavaScript, Custom and Google authentication...
 
 ## 2. English Grammar Tests
 
