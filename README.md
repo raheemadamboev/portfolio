@@ -746,6 +746,12 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **1** | **WordPair Generator** | Flutter app to get and save word pairs | Flutter, Dart, Navigation, Material Design... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/word-pair-generator) |
 | **2** | **Notepad** | Flutter application that you can add and edit notes from cloud. It also implements authentication system. | Flutter, MVVM, Firebase, Injectable, GetIt, Bloc, Cubit, Freezed, AutoRoute, Material Design... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/notepad) |
 
+# Kotlin Multiplatform Mobile Applications
+
+| № | Name | Description | Tech stack | Navigation |
+|---|------|-------------|------------|------------|
+| **1** | **KMM Hello World** | Hello World app in Kotlin Multiplatform Mobile | KMM, Android, IOS... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/kmm-hello-world) |
+
 # React Native Applications
 
 | № | Name | Description | Tech stack | Navigation |
