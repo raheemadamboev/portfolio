@@ -1,6 +1,6 @@
 # Portfolio of Raheem
 
-The portfolio consists of 9 main sections. Short descriptions are written as not technical as possible, so if you want to read the technical description, please navigate to the Github page of the app. There you can find the full technical description, tech stack, commits I made with the timestamp, full source code, and demo app that you can use.
+The portfolio consists of 10 main sections. Short descriptions are written as not technical as possible, so if you want to read the technical description, please navigate to the Github page of the app. There you can find the full technical description, tech stack, commits I made with the timestamp, full source code, and demo app that you can use.
 
 _Obsession, passion, and consistency!_
 
@@ -327,7 +327,7 @@ Console app for ZakoWatt. So the owner can manage his project. He can manage res
  
 MVVM, Firebase, Kotlin Coroutines, Kotlin Flows, Room, Hilt Dependency Injection, ActivityX, Jetpack Paging, Glide, Animations, ViewBinding, Material 2, Robust to configuration changes and process death...
 
-# Hobby Android apps
+# Hobby Android Android apps
 
 ## 1. Note Taker
 
@@ -709,7 +709,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **115** | **Local Notification** | A simple app that posts interactive local notification | MVVM, Jetpack Compose, Material3, Hilt, Notification, Local Notification, BroadcastReceiver... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/local-notification) |
 | **116** | **Observe Connectivity** | A simple app that observes connectivity via Kotlin Flows | MVVM, Jetpack Compose, Material3, Hilt, Kotlin Coroutines, Kotlin Flows, Connectivity Manager, Connectivity... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/observe-connectivity) |
  
-# Android Libraries
+# Native Android Libraries
 
 | № | Name | Description | Navigation |
 |---|------|-------------|------------|
