@@ -242,7 +242,7 @@ MVVM, Material Design, Room, Git, ViewBinding, Firebase, QR Code, Excel, Google 
 
 This app helps people who want to learn English irregular verbs by playing interactive quiz games and searching irregular verbs by name and definition. The app supports multiple languages (English, Uzbek, Russian). Also, it is fully offline, lightweight, extremely easy to use.
 
-_The app was originally developed by Material2 that you can see at 3B. Material3 implemented from scratch._
+_The app was originally developed by Material2 that you can see at 9B. Material3 implemented from scratch._
 
 - **5 000+ downloads in Google Play Store so far**
 - **4.7 overall stars in Google Play Store**
