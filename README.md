@@ -228,10 +228,10 @@ This is the best app to manage your inventory. This app has many features to sav
 
 MVVM, Material Design, Room, Git, ViewBinding, Firebase, QR Code, Excel, Google Admob, Live search, R8...
 
-## 9. Irregular Verbs
+## 9A. Irregular Verbs (Material3)
 
 <p align="center">
- <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/IrregularVerbs.jpg" width="869" height="416" />
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/Irregular%20Verbs%201.1.0.jpg" width="869" height="416" />
 </p>
  
 <p align="center">
@@ -242,10 +242,20 @@ MVVM, Material Design, Room, Git, ViewBinding, Firebase, QR Code, Excel, Google 
 
 This app helps people who want to learn English irregular verbs by playing interactive quiz games and searching irregular verbs by name and definition. The app supports multiple languages (English, Uzbek, Russian). Also, it is fully offline, lightweight, extremely easy to use.
 
+_The app was originally developed by Material2 that you can see at 3B. Material3 implemented from scratch._
+
 - **5 000+ downloads in Google Play Store so far**
 - **4.7 overall stars in Google Play Store**
 
-MVVM, Room, Firebase, Git, R8, Jetpack Navigation Component, Hilt Dependency Injection, Kotlin Coroutines, ViewBinding, Animations, Exoplayer, Admob...
+MVVM, Material3, Firebase, Room, Hilt, Jetpack Navigation Component, Jetpack DataStore Preferences, ViewBinding, Git, R8, Exoplayer2, Admob, Kotlin Coroutines, Kotlin Flows, Timber, Animations, Handling Configuration Changes, Adaptive Layouts... 
+
+## 9B. Irregular Verbs (Material2)
+
+<p align="center">
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/IrregularVerbs.jpg" width="869" height="416" />
+</p>
+
+MVVM, Material2, Room, Firebase, Git, R8, Jetpack Navigation Component, Hilt Dependency Injection, Kotlin Coroutines, ViewBinding, Animations, Exoplayer2, Admob...
 
 ## 10. GoTest CEO
 
