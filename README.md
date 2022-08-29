@@ -124,10 +124,10 @@ Flutter, MVVM, AutoRoute, Bloc, Cubit, RxDart, Freezed, Drift, SQLite3, Path, Fi
 
 MVVM, Hilt Dependency Injection, Jetpack Navigation Component, Room, Firebase, ViewBinding, Git, Kotlin Coroutines, Material Design, Glide, R8, Handling configuration changes...
 
-## 5. Kichkina Shahzoda audio-kitobi
+## 5A. Kichkina Shahzoda audio-kitobi (Jetpack Compose, Material3)
 
 <p align="center">
- <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/The%20Little%20Prince.jpg" width="869" height="416" />
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/Kichkina%20Shahzoda%201.1.0.jpg" width="869" height="416" />
 </p>
  
 <p align="center">
@@ -139,10 +139,20 @@ MVVM, Hilt Dependency Injection, Jetpack Navigation Component, Room, Firebase, V
  </a>
 </p>
 
-This app plays audio of "Kichkina Shahzoda" novel from the server online. It is easy to use. You can easily control audio by notification.
+This app plays audio of "Kichkina Shahzoda" novel locally. It is easy to use. You can easily control audio by notification.
 
 - **10 000+ downloads in Google Play Store so far**
 - **4.2 overall stars in Google Play Store**
+
+_The app was originally made by Material2 XML. It has been migrated to Material3 Jetpack Compose from scratch completely. You can see Material2 XML app in 5B._
+
+MVVM, Hilt, Jetpack Compose, Kotlin Coroutines, Kotlin Flows, Material3, ExoPlayer2, Git, Compose Destinations, Timber, R8, Firebase, Music Notification...
+
+## 5B. Kichkina Shahzoda audio-kitobi (XML, Material2)
+
+<p align="center">
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/The%20Little%20Prince.jpg" width="869" height="416" />
+</p>
 
 MVVM, Hilt Dependency Injection, Jetpack Navigation Component, Glide, Exoplayer, Kotlin Coroutines, ViewBinding, Git, Material Design, Firebase, Music Notification...
 
