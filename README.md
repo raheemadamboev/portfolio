@@ -214,7 +214,7 @@ _The app was originally made by Material2 XML. It has been migrated to Jetpack C
 
 Notepad is completely offline and ad-free. Regarding adding notes, it has never been straightforward like this. The app supports multiple languages (English, Russian, Korean, Uzbek). You can also set a PIN code to protect your notes.
 
-- **24 000+ downloads in Google Play Store so far**
+- **25 000+ downloads in Google Play Store so far**
 - **4.4 overall stars in Google Play Store**
 
 MVVM, Git, Material Design, Room, Threading, R8, Custom Views...
