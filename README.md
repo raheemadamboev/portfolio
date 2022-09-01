@@ -55,7 +55,7 @@ MVVM, Jetpack Navigation Component, Room, Kotlin Flows, Git, R8, Firebase, Kotli
  </a>
 </p>
 
-- **300+ downloads in Google Play Store so far**
+- **500+ downloads in Google Play Store so far**
 - **5 overall stars in Google Play Store**
 
 MVVM Android application to solve English grammar multiple-choice questions. You can improve your English grammar skills by using the application daily. Application is fully robust to configuration changes and process deaths. Different screen layouts are made for different orientations. Custom views are created. 
