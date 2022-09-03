@@ -197,12 +197,12 @@ _The app was originally made by Material2 XML. It has been migrated to Jetpack C
  <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/ToDo.jpg" width="869" height="416" />
 </p>
 
-## 7. Notepad
+## 7A. Notepad (Jetpack Compose, Material3)
 
 <p align="center">
- <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/Notepad.jpg" width="869" height="416" />
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/Notepad%201.1.2.jpg" width="869" height="416" />
 </p>
- 
+
 <p align="center">
  <a href="https://play.google.com/store/apps/details?id=xyz.teamgravity.notepad">
    <img  src="https://img.shields.io/badge/Play Store-00875f?style=for-the-badge&logo=google&logoColor=white">
@@ -212,11 +212,19 @@ _The app was originally made by Material2 XML. It has been migrated to Jetpack C
  </a>
 </p>
 
-Notepad is completely offline and ad-free. Regarding adding notes, it has never been straightforward like this. The app supports multiple languages (English, Russian, Korean, Uzbek). You can also set a PIN code to protect your notes.
+Notepad is completely offline and ad-free. Regarding adding notes, it has never been straightforward like this. The app supports multiple languages (English, Russian, Uzbek).
 
 - **25 000+ downloads in Google Play Store so far**
 - **4.4 overall stars in Google Play Store**
 
+MVVM, Jetpack Compose, Compose Destinations, Firebase, R8, Hilt, Kotlin Coroutines, Room, Jetpack DataStore Preferences, Kotlin Flows, Process Death Handling, Material3, Git... 
+
+## 7B. Notepad (XML, Material2)
+
+<p align="center">
+ <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/Notepad.jpg" width="869" height="416" />
+</p>
+ 
 MVVM, Git, Material Design, Room, Threading, R8, Custom Views...
 
 ## 8. StockX Pro
