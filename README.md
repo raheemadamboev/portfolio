@@ -212,7 +212,7 @@ _The app was originally made by Material2 XML. It has been migrated to Jetpack C
  </a>
 </p>
 
-Notepad is completely offline and ad-free. Regarding adding notes, it has never been straightforward like this. The app supports multiple languages (English, Russian, Uzbek).
+Notepad is completely offline and ad-free. Regarding adding notes, it has never been straightforward like this. The app supports multiple languages (English, Russian, Uzbek). Auto-save notes.
 
 - **25 000+ downloads in Google Play Store so far**
 - **4.4 overall stars in Google Play Store**
