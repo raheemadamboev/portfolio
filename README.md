@@ -8,7 +8,7 @@ _Obsession, passion, and consistency!_
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 175 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 116 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 117 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 4 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 6 | - |
@@ -736,6 +736,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **114** | **Kotlin Delegation Android** | A simple app that implements Delegation design pattern in Kotlin | Jetpack Compose, Material3, Kotlin, Kotlin Delegation, Delegation Design Pattern, Lazy Design Pattern... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/kotlin-delegation-android) |
 | **115** | **Local Notification** | A simple app that posts interactive local notification | MVVM, Jetpack Compose, Material3, Hilt, Notification, Local Notification, BroadcastReceiver... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/local-notification) |
 | **116** | **Observe Connectivity** | A simple app that observes connectivity via Kotlin Flows | MVVM, Jetpack Compose, Material3, Hilt, Kotlin Coroutines, Kotlin Flows, Connectivity Manager, Connectivity... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/observe-connectivity) |
+| **117** | **KeyStore Cipher** | A simple app that encrypts/decrypts text using Cipher, KeyStore via AES algorithm | MVVM, Jetpack Compose, Material3, Hilt, Android Security, AES, Encryption, Decryption, KeyStore, Cipher... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/keystore-cipher) |
  
 # Native Android Libraries
 
