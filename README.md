@@ -111,7 +111,7 @@ This app is dedicated to Alisher Navoi. You can read all of his poems and artwor
 _The app was originally made by Kotlin Native (XML). It has been migrated to Flutter from scratch completely. You can see the native app in 4B which is above 4A._
 
 - **App won top 10 places in Uzbekistan tournament over 400 apps**
-- **11 000+ downloads in Google Play Store so far**
+- **12 000+ downloads in Google Play Store so far**
 - **4.3 overall stars in Google Play Store**
 
 Flutter, MVVM, AutoRoute, Bloc, Cubit, RxDart, Freezed, Drift, SQLite3, Path, Firebase, EasyLocalization, Injectable, GetIt, SharedPreferences, Logger, Custom Widgets, Animations, Custom themes, Robust to configuration changes...
