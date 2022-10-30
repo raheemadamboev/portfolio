@@ -214,8 +214,8 @@ _The app was originally made by Material2 XML. It has been migrated to Jetpack C
 
 Notepad is completely offline and ad-free. Regarding adding notes, it has never been straightforward like this. The app supports multiple languages (English, Russian, Uzbek). Auto-save notes.
 
-- **29 000+ downloads in Google Play Store so far**
-- **4.4 overall stars in Google Play Store**
+- **31 000+ downloads in Google Play Store so far**
+- **4.3 overall stars in Google Play Store**
 
 MVVM, Jetpack Compose, Compose Destinations, Firebase, R8, Hilt, Kotlin Coroutines, Room, Jetpack DataStore Preferences, Kotlin Flows, Process Death Handling, Material3, Git... 
 
