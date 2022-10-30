@@ -262,7 +262,7 @@ This app helps people who want to learn English irregular verbs by playing inter
 
 _The app was originally developed by Material2 that you can see at 9B. Material3 implemented from scratch._
 
-- **6 000+ downloads in Google Play Store so far**
+- **7 000+ downloads in Google Play Store so far**
 - **4.7 overall stars in Google Play Store**
 
 MVVM, Material3, Firebase, Room, Hilt, Jetpack Navigation Component, Jetpack DataStore Preferences, ViewBinding, Git, R8, Exoplayer2, Admob, Kotlin Coroutines, Kotlin Flows, Timber, Animations, Handling Configuration Changes, Adaptive Layouts... 
