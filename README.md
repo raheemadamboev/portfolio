@@ -8,7 +8,7 @@ _Obsession, passion, and consistency!_
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 205 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 120 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 121 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 4 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 6 | - |
@@ -740,6 +740,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **118** | **Encrypted DataStore** | A simple app encrypts/decrypts Jetpack DataStore Proto via AES algorithm | MVVM, Jetpack Compose, Material3, Hilt, Android Security, AES, Encryption, Decryption, Kotlin Serialization, Jetpack DataStore Proto, KeyStore, Cipher, Kotlin Coroutines, Kotlin Flows... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/encrypted-datastore) |
 | **119** | **Picture in Picture Mode** | A simple app that uses Picture-In-Picture mode in Android | Jetpack Compose, Material3, Picture In Picture... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/picture-in-picture-mode) |
 | **120** | **Room Migration** | A plain app to use and test Migrations and Auto-Migrations in Room | Jetpack Compose, Material3, Room, Kotlin Coroutines, Kotlin Flows, JUnit, Migrations, Auto-Migration... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/room-migration) |
+| **121** | **Custom Calendar View** | A simple app to implement custom calendar in View | MVVM, Material3, ViewBinding, Kotlin Coroutines, Kotlin Flows, Hilt, Timber, Unidirectional Data Flow, Custom Calendar... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/custom-calendar-view) |
  
 # Native Android Libraries
 
