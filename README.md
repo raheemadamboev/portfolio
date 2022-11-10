@@ -8,7 +8,7 @@ _Obsession, passion, and consistency!_
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 205 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 122 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 123 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 4 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 6 | - |
@@ -742,6 +742,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **120** | **Room Migration** | A plain app to use and test Migrations and Auto-Migrations in Room | Jetpack Compose, Material3, Room, Kotlin Coroutines, Kotlin Flows, JUnit, Migrations, Auto-Migration... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/room-migration) |
 | **121** | **Custom Calendar View** | A simple app to implement custom calendar in View | MVVM, Material3, ViewBinding, Kotlin Coroutines, Kotlin Flows, Hilt, Timber, Unidirectional Data Flow, Custom Calendar... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/custom-calendar-view) |
 | **122** | **Background Location Tracker** | A simple app to track device location in foreground service continuously | MVVM, Jetpack Compose, Material3, Kotlin Coroutines, Kotlin Flows, Hilt, Location, GPS, Notification, Foreground Service... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/background-location-tracker) |
+| **123** | **Notification Permission** | Jetpack Compose app to request POST_NOTIFICATION permission and show notification in Android 13 | MVVM, Material3, Jetpack Compose, Hilt, Notification, Permission, Accompanist Permissions API... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/notification-permission) |
  
 # Native Android Libraries
 
