@@ -8,7 +8,7 @@ _Obsession, passion, and consistency!_
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 205 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 126 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 127 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 4 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 6 | - |
@@ -746,6 +746,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **124** | **Media3 Video Player** | A simple app that uses Jetpack Media3 to play videos | MVVM, Jetpack Compose, Media3, Material3, Hilt, Kotlin Coroutines, Kotlin Flows, ExoPlayer2, SavedStateHandle... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/media3-video-player) |
 | **125** | **Custom Modifier** | A simple Jetpack Compose app that uses custom modifiers | Jetpack Compose, Material3, Animation, Custom Modifier... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/custom-modifier) |
 | **126** | **ktlint Demo** | A simple app that uses ktlint tool for Gradle | Jetpack Compose, Material3, ktlint, Gradle... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/ktlint-demo) |
+| **127** | **Compose Animations** | A simple app that demonstrates various ways of making animations in Jetpack Compose | Jetpack Compose, Material3, Animations... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/compose-animations) |
  
 # Native Android Libraries
 
