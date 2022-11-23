@@ -748,6 +748,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **126** | **ktlint Demo** | A simple app that uses ktlint tool for Gradle | Jetpack Compose, Material3, ktlint, Gradle... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/ktlint-demo) |
 | **127** | **Compose Animations** | A simple app that demonstrates various ways of making animations in Jetpack Compose | Jetpack Compose, Material3, Animations... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/compose-animations) |
 | **128** | **Compose DeepLink** | A simple app that uses deep link in Jetpack Compose | Jetpack Compose, Material3, DeepLink, Jetpack Compose Navigation, Compose DeepLink... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/compose-deeplink) |
+| **129** | **Compose DeepLink Sender** | A simple app that triggers deep link using PendingIntent | Jetpack Compose, Material3, PendingIntent... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/compose-deeplink-sender) |
  
 # Native Android Libraries
 
