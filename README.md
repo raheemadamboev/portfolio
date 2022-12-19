@@ -8,7 +8,7 @@ _Obsession, passion, and consistency!_
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 218 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 130 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 131 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 4 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 6 | - |
@@ -750,6 +750,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **128** | **Compose DeepLink** | A simple app that uses deep link in Jetpack Compose | Jetpack Compose, Material3, DeepLink, Jetpack Compose Navigation, Compose DeepLink... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/compose-deeplink) |
 | **129** | **Compose DeepLink Sender** | A simple app that triggers deep link using PendingIntent | Jetpack Compose, Material3, PendingIntent... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/compose-deeplink-sender) |
 | **130** | **Benchmark Demo** | A simple Jetpack Compose app that uses Android Benchmark API | Jetpack Compose, Material3, Jetpack Compose Navigation, JUnit, Benchmark, Android Benchmark, Macrobenchmark... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/benchmark-demo) |
+| **131** | **Benchmark Baseline Profiles** | A simple Jetpack Compose app that uses Baseline Profiles to optimize performance and benchmarks it using Jetpack MacroBenchmark | Jetpack Compose, Material3, Jetpack Compose Navigation, JUnit, Benchmark, Jetpack Macrobenchmark, Baseline Profiles, Macrobenchmark... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/benchmark-baseline-profiles) |
  
 # Native Android Libraries
 
