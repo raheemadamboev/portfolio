@@ -17,6 +17,8 @@ _Obsession, passion, and consistency!_
 | <a href="https://github.com/raheemadamboev/portfolio#react-native-applications">Hobby React Native apps<a/> | 4 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#jetpack-compose-desktop-applications">Hobby Desktop apps<a/> | 1 | - |
 
+> **Note**: Statistics are updated manually at 25.12.2022.
+
 # Production Android apps
 
 ## 1. GoTest - Testlar, Kitoblar, Imtihonlar platformasi
@@ -56,7 +58,7 @@ MVVM, Jetpack Navigation Component, Room, Kotlin Flows, Git, R8, Firebase, Kotli
 </p>
 
 - **1 000+ downloads in Google Play Store so far**
-- **5 overall stars in Google Play Store**
+- **4.9 overall stars in Google Play Store**
 
 MVVM Android application to solve English grammar multiple-choice questions. You can improve your English grammar skills by using the application daily. Application is fully robust to configuration changes and process deaths. Different screen layouts are made for different orientations. Custom views are created. 
 
