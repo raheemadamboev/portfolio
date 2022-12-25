@@ -218,6 +218,7 @@ Notepad is completely offline and ad-free. Regarding adding notes, it has never 
 
 - **34 000+ downloads in Google Play Store so far**
 - **4.3 overall stars in Google Play Store**
+- **1 500 - 2 000 daily active users according to Google Analytics**
 
 MVVM, Jetpack Compose, Compose Destinations, Firebase, R8, Hilt, Kotlin Coroutines, Room, Jetpack DataStore Preferences, Kotlin Flows, Process Death Handling, Material3, Git... 
 
