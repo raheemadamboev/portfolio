@@ -8,7 +8,7 @@ _Obsession, passion, and consistency!_
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 224 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 131 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 132 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 4 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 6 | - |
@@ -754,6 +754,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **129** | **Compose DeepLink Sender** | A simple app that triggers deep link using PendingIntent | Jetpack Compose, Material3, PendingIntent... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/compose-deeplink-sender) |
 | **130** | **Benchmark Demo** | A simple Jetpack Compose app that uses Android Benchmark API | Jetpack Compose, Material3, Jetpack Compose Navigation, JUnit, Benchmark, Android Benchmark, Macrobenchmark... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/benchmark-demo) |
 | **131** | **Benchmark Baseline Profiles** | A simple Jetpack Compose app that uses Baseline Profiles to optimize performance and benchmarks it using Jetpack MacroBenchmark | Jetpack Compose, Material3, Jetpack Compose Navigation, JUnit, Benchmark, Jetpack Macrobenchmark, Baseline Profiles, Macrobenchmark... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/benchmark-baseline-profiles) |
+| **132** | **Pick Visual Media** | A simple Jetpack Compose app that uses new visual media (photo, video, etc) picker in Android 13 style | Jetpack Compose, Material3, Android 13 File Picker, File Picker, Activity Result API, Pick Visual Media... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/pick-visual-media) |
  
 # Native Android Libraries
 
