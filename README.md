@@ -8,7 +8,7 @@ _Obsession, passion, and consistency!_
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 224 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 136 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 137 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 4 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 5 | - |
@@ -759,6 +759,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **134** | **Date Time Picker Dialog** | A simple app that demonstrates using Date & Time picker material dialog in Jetpack Compose | Jetpack Compose, Material3, Date Picker, Time Picker... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/date-time-picker-dialog) |
 | **135** | **AutoResizedText** | A simple app that builds custom text component that resizes according to its container size in Jetpack Compose | Jetpack Compose, Material3, Responsive UI, AutoResizedText... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/auto-resized-text) |
 | **136** | **Boot Completed Receiver** | A simple app that demonstrates executing piece of code when device boots up using BroadcastReceiver | Jetpack Compose, Material3, BroadcastReceiver, Toast, Boot Completed... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/boot-completed-receiver) |
+| **137** | **AlarmManager** | A simple app that demonstrates using AlarmManager API by scheduling alarms and firing notifications on scheduled time in Jetpack Compose | MVVM, Jetpack Compose, Material3, Hilt, AlarmManager, Notification, BroadcastReceiver, PendingIntent... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/alarm-manager) |
  
 # Native Android Libraries
 
