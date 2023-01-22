@@ -43,7 +43,7 @@ GoTest is one of the biggest educational platform to study in Uzbekistan. You ca
 - **2 000+ daily active users in August 2021**
 - **Reached 1st place in educational apps in Google Play Store in August 2021**
 
-MVVM, Jetpack Navigation Component, Room, Kotlin Flows, Git, R8, Firebase, Kotlin Coroutines, Hilt Dependency Injection, Glide, Click Payment SDK, ViewBinding, Jetpack Paging, Material Design, Custom views, Animations, Threading, Deployment of Firebase Cloud Functions via JavaScript, Custom and Google authentication...
+MVVM, Jetpack Navigation Component, Room, Kotlin Flows, Git, R8, Firebase, GSON, Kotlin Coroutines, Hilt, Glide, Click Payment, ExoPlayer2, ViewBinding, Jetpack Paging2, Material2, Custom Views, Animations, Threading, Deployment of Firebase Cloud Functions via JavaScript, Custom and Google authentication...
 
 ## 2. English Grammar Tests
 
@@ -60,9 +60,9 @@ MVVM, Jetpack Navigation Component, Room, Kotlin Flows, Git, R8, Firebase, Kotli
 - **1 000+ downloads in Google Play Store so far**
 - **4.9 overall stars in Google Play Store**
 
-MVVM Android application to solve English grammar multiple-choice questions. You can improve your English grammar skills by using the application daily. Application is fully robust to configuration changes and process deaths. Different screen layouts are made for different orientations. Custom views are created. 
+Solve English grammar multiple-choice questions with the English Grammar Tests. You can improve your English grammar skills by using the application daily. Application is fully robust to configuration changes and process deaths. Different screen layouts are made for different orientations.
 
-MVVM, Firebase, Room, Kotlin Coroutines, Hilt Dependency Injection, Jetpack Navigation Component, Admob, GSON, Jetpack WorkManager, Google Material Design, Flow, StateFlow, Channel, Animations, Custom Views, R8, ProGuard Rules, Git, ViewBinding, Notifications, Completely robust to configuration changes and process death, Different screen layouts...
+MVVM, Firebase, Room, Kotlin Coroutines, Hilt, Jetpack Navigation Component, Admob, GSON, Jetpack WorkManager, Material2, Kotlin Flows, Animations, Custom Views, R8, ProGuard, Git, ViewBinding, Notification, Completely robust to configuration changes and process death, Different screen layouts...
 
 ## 3A. Buxgalteriya schyotlar rejasi (Material3)
 
@@ -79,7 +79,7 @@ MVVM, Firebase, Room, Kotlin Coroutines, Hilt Dependency Injection, Jetpack Navi
  </a>
 </p>
 
-This app helps people who want to learn bookkeeping special account codes. Users can play interactive quiz games and search for account codes by content and numbers. The app supports multiple languages (Uzbek, Russian). Also, it is fully offline, lightweight, and extremely easy to use.
+This app helps people who want to learn bookkeeping special account codes. Users can play interactive quiz games and search for account codes by content and numbers. The app supports multiple languages (Uzbek, Russian). It is fully offline, lightweight, and extremely easy to use.
 
 _The app was originally developed by Material2 that you can see at 3B. Material3 implemented from scratch._
 
@@ -94,7 +94,7 @@ MVVM, Material3, Firebase, Room, Hilt, Jetpack Navigation Component, Jetpack Dat
  <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/Uzbekistan%20Accounting%20Codes.jpg" width="869" height="416" />
 </p>
 
-MVVM, Material2, Room, Firebase, Git, R8, Jetpack Navigation Component, Hilt Dependency Injection, Kotlin Coroutines, ViewBinding, Animations, Exoplayer2, Admob...
+MVVM, Material2, Room, Firebase, Git, R8, Jetpack Navigation Component, Hilt, Kotlin Coroutines, LiveData, ViewBinding, Animations, Exoplayer2, Admob...
 
 ## 4A. Alisher Navoiy asarlari va testlar (Flutter)
 
