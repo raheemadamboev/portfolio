@@ -1,6 +1,6 @@
 # Portfolio of Raheem
 
-The portfolio consists of 10 main sections. Short descriptions are written as not technical as possible, so if you want to read the technical description, please navigate to the Github page of the app. There you can find the full technical description, tech stack, commits I made with the timestamp, full source code, and demo app that you can use.
+The portfolio consists of 10 main sections. Short descriptions are written as not technical as possible. If you want to read the technical description, navigate to the Github page of the app. There you can find the full technical description, tech stack, commits I made with the timestamp, full source code, and demo app that you can use.
 
 _Obsession, passion, and consistency!_
 
