@@ -8,7 +8,7 @@ _Obsession, passion, and consistency!_
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 224 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 140 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 141 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 4 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 5 | - |
@@ -763,6 +763,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **138** | **Nested Scroll** | A simple app that demonstrates using nested scroll with Jetpack Compose | Jetpack Compose, Material3, Nested Scroll, LazyRow, LazyColumn... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/nested-scroll) |
 | **139** | **Shimmer Loading Modifier** | A simple app that demonstrates building shimmer loading effect without third party libraries and making it Modifier extension function in Jetpack Compose | Jetpack Compose, Material3, Shimmer Effect, Animation... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/shimmer-loading-modifier) |
 | **140** | **Shimmer Loading Accompanist** | A simple app that demonstrates using shimmer loading effect provided by Accompanist in Jetpack Compose | Jetpack Compose, Material3, Shimmer Effect, Accompanist, Placeholder... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/shimmer-loading-accompanist) |
+| **141** | **DownloadManager** | A simple app that demonstrates using DownloadManager in Android | MVVM, Jetpack Compose, Material3, DownloadManager, BroadcastReceiver... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/download-manager) |
  
 # Native Android Libraries
 
