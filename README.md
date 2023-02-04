@@ -6,7 +6,7 @@ _Obsession, passion, and consistency!_
 
 | Section | Count | Downloads |
 |----------|-------|-----------|
-| <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 224 000+ |
+| <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 238 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 142 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 4 | - |
@@ -17,7 +17,7 @@ _Obsession, passion, and consistency!_
 | <a href="https://github.com/raheemadamboev/portfolio#react-native-applications">Hobby React Native apps<a/> | 4 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#jetpack-compose-desktop-applications">Hobby Desktop apps<a/> | 1 | - |
 
-> **Note**: Statistics are updated manually at 25.12.2022.
+> **Note**: Statistics are updated manually at 04.02.2023.
 
 # Production Android apps
 
