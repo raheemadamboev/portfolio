@@ -8,7 +8,7 @@ _Obsession, passion, and consistency!_
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 238 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 142 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 143 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 4 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 5 | - |
@@ -765,6 +765,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **140** | **Shimmer Loading Accompanist** | A simple app that demonstrates using shimmer loading effect provided by Accompanist in Jetpack Compose | Jetpack Compose, Material3, Shimmer Effect, Accompanist, Placeholder... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/shimmer-loading-accompanist) |
 | **141** | **DownloadManager** | A simple app that demonstrates using DownloadManager in Android | MVVM, Jetpack Compose, Material3, DownloadManager, BroadcastReceiver... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/download-manager) |
 | **142** | **AnimatedCounterText** | A simple app that implements animated counter text using Jetpack Compose Animations API | Jetpack Compose, Material3, Animation... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/animated-counter-text) |
+| **143** | **Retrofit Interceptor Annotation** | A simple app that adds Authentication header to Retrofit2 calls using OkHttp interceptor and Kotlin Annotations | Jetpack Compose, Material3, Retrofit2, Kotlin Coroutines, OkHttp3, Moshi, Kotlin Annotation, OkHttp Interceptor, Moshi Converter... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/retrofit-interceptor-annotation) |
  
 # Native Android Libraries
 
