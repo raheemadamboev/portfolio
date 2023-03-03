@@ -8,7 +8,7 @@ _Obsession, passion, and consistency!_
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 248 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 146 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 147 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 5 | - |
@@ -769,6 +769,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **144** | **Live Search** | A simple app that demonstrates implementing live search using Kotlin Flows | MVVM, Jetpack Compose, Material3, Kotlin Coroutines, Kotlin Flows, LiveSearch... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/live-search) |
 | **145** | **Permission Activity Result** | A simple app that handles permissions in Jetpack Compose using ActivityResult API and shows proper dialogs | MVVM, Jetpack Compose, Material3, Activity Result API... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/permission-activity-result) |
 | **146** | **LazyVerticalStaggeredGrid** | A simple app that demonstrates using LazyVerticalStaggeredGrid in Jetpack Compose | Jetpack Compose, Material3, LazyVerticalStaggeredGrid... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/lazy-vertical-staggered-grid) |
+| **147** | **Audio Recorder** | A simple app that demonstrates recording and playing audio using Android Media | Jetpack Compose, Material3, Media, MediaRecorder, MediaPlayer... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/audio-recorder) |
  
 # Native Android Libraries
 
