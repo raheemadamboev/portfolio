@@ -37,7 +37,7 @@ GoTest is one of the biggest educational platform to study in Uzbekistan. You ca
 
 - **Won $10 000 subsidy (funding) from [the Goverment](https://mitc.uz/uz/news/view/3668)**
 - **Won top 40 place in International Startup Tournament [Unicorns SCO 2022](https://unicorns.uz/)**
-- **132 000+ downloads in Google Play Store so far**
+- **140 000+ downloads in Google Play Store so far**
 - **4.4 overall stars in Google Play Store**
 - **Top 3 grossing educational apps in Uzbekistan**
 - **2 000+ daily active users in August 2021**
