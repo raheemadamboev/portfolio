@@ -8,7 +8,7 @@ _Obsession, passion, and consistency!_
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 262 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 148 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 149 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 5 | - |
@@ -771,6 +771,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **146** | **LazyVerticalStaggeredGrid** | A simple app that demonstrates using LazyVerticalStaggeredGrid in Jetpack Compose | Jetpack Compose, Material3, LazyVerticalStaggeredGrid... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/lazy-vertical-staggered-grid) |
 | **147** | **Audio Recorder** | A simple app that demonstrates recording and playing audio using Android Media | Jetpack Compose, Material3, Media, MediaRecorder, MediaPlayer... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/audio-recorder) |
 | **148** | **DSR Junior Developer Task** | The project that covers the task that I assigned Junior developer in my company | Clean Architecture, MVVM, Material3, Hilt, Jetpack Navigation Components, Kotlin Coroutines, Kotlin Flows, Retrofit2, Kotlin Serialization, Jetpack Paging3, ViewBinding, Glide, Timber, Safe Args... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/dsr-junior-developer-task) |
+| **149** | **Bluetooth Chat** | Jetpack Compose app that exchanges text data over devices via Bluetooth | Clean Architecture, MVVM, Jetpack Compose, Material3, Bluetooth, Kotlin Coroutines, Kotlin Flows, Timber, Hilt, Compose Destinations, Accompanist Permissions... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/bluetooth-chat) |
  
 # Native Android Libraries
 
