@@ -818,6 +818,12 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 
 | № | Name | Description | Tech stack | Navigation |
 |---|------|-------------|------------|------------|
+| **1** | **Stopwatch Wear OS** | A simple stopwatch app for Wear OS | Wear OS, Jetpack Compose, Material2, Kotlin Flows, Kotlin Coroutines, ViewModel... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/stopwatch-wear-os) |
+
+# Kotlin Multiplatform Mobile Applications
+
+| № | Name | Description | Tech stack | Navigation |
+|---|------|-------------|------------|------------|
 | **1** | **KMM Hello World** | Hello World app in Kotlin Multiplatform Mobile | KMM, Android, IOS... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/kmm-hello-world) |
 
 # React Native Applications
