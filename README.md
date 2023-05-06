@@ -8,7 +8,7 @@ _Obsession, passion, and consistency!_
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 265 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 152 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 153 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 5 | - |
@@ -776,6 +776,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **150** | **MultiLineHintTextField** | A simple app that implements custom multi-line TextField with hint in Jetpack Compose | Jetpack Compose, Material3, CustomTextField... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/multi-line-hint-text-field) |
 | **151** | **ContextMenu** | A simple app that demonstrates how to implement context menu in Jetpack Compose | Jetpack Compose, Material3, ContextMenu... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/context-menu) |
 | **152** | **PersistentScrollPosition** | A simple app that demonstrates saving/restoring scroll position in Jetpack Compose | Jetpack Compose, Material3, Kotlin Coroutines, Kotlin Flows, LazyListState, SharedPreferences... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/persistent-scroll-position) |
+| **153** | **Custom FlowRow** | A simple app that implements custom FlowRow using Layout composable in Jetpack Compose | Jetpack Compose, Material3, Layout... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/custom-flow-row) |
  
 # Native Android Libraries
 
