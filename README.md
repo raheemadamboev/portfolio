@@ -38,7 +38,7 @@ GoTest is one of the biggest educational platform to study in Uzbekistan. You ca
 
 - **Won $10 000 subsidy (funding) from [the Goverment](https://mitc.uz/uz/news/view/3668)**
 - **Won top 40 place in International Startup Tournament [Unicorns SCO 2022](https://unicorns.uz/)**
-- **146 000+ downloads in Google Play Store so far**
+- **152 000+ downloads in Google Play Store so far**
 - **4.5 overall stars in Google Play Store**
 - **Top 3 grossing educational apps in Uzbekistan**
 - **2 000+ daily active users in August 2021**
@@ -58,8 +58,8 @@ MVVM, Jetpack Navigation Component, Room, Kotlin Flows, Git, R8, Firebase, GSON,
  </a>
 </p>
 
-- **1 500+ downloads in Google Play Store so far**
-- **4.6 overall stars in Google Play Store**
+- **2 000+ downloads in Google Play Store so far**
+- **4.7 overall stars in Google Play Store**
 
 Solve English grammar multiple-choice questions with the English Grammar Tests. You can improve your English grammar skills by using the application daily. Application is fully robust to configuration changes and process deaths. Different screen layouts are made for different orientations.
 
@@ -84,7 +84,7 @@ This app helps people who want to learn bookkeeping special account codes. Users
 
 _The app was originally developed by Material2 that you can see at 3B. Material3 implemented from scratch._
 
-- **27 000+ downloads in Google Play Store so far**
+- **28 000+ downloads in Google Play Store so far**
 - **4.7 overall stars in Google Play Store**
 
 MVVM, Material3, Firebase, Room, Hilt, Jetpack Navigation Component, Jetpack DataStore Preferences, ViewBinding, Git, R8, Exoplayer2, Admob, Kotlin Coroutines, Kotlin Flows, Timber, Animations, Handling Configuration Changes, Adaptive Layouts... 
@@ -144,7 +144,7 @@ MVVM, Hilt Dependency Injection, Jetpack Navigation Component, Room, Firebase, V
 
 This app plays audio of "Kichkina Shahzoda" novel locally. It is easy to use. You can easily control audio by notification.
 
-- **26 000+ downloads in Google Play Store so far**
+- **27 000+ downloads in Google Play Store so far**
 - **4.3 overall stars in Google Play Store**
 
 _The app was originally made by Material2 XML. It has been migrated to Material3 Jetpack Compose from scratch completely. You can see Material2 XML app in 5B._
@@ -217,8 +217,8 @@ _The app was originally made by Material2 XML. It has been migrated to Jetpack C
 
 Notepad is completely offline and ad-free. Regarding adding notes, it has never been straightforward like this. The app supports multiple languages (English, Russian, Uzbek). Auto-save notes.
 
-- **44 000+ downloads in Google Play Store so far**
-- **4.3 overall stars in Google Play Store**
+- **45 000+ downloads in Google Play Store so far**
+- **4.4 overall stars in Google Play Store**
 - **1 500 - 2 000 daily active users according to Google Analytics**
 
 MVVM, Jetpack Compose, Compose Destinations, Firebase, R8, Hilt, Kotlin Coroutines, Room, Jetpack DataStore Preferences, Kotlin Flows, Process Death Handling, Material3, Git... 
@@ -245,7 +245,7 @@ MVVM, Git, Material Design, Room, Threading, R8, Custom Views...
 
 This is the best app to manage your inventory. This app has many features to save your time and automate your job. You can add inventory and sell. You can also add sizes to inventory and you can share QR codes of products. You can use your sale data with the calendar. You can back up your data and you can convert your data to an Excel file. The app supports multi-language (English, Russian, Uzbek). There are more features...
 
-- **1 500+ downloads in Google Play Store so far**
+- **2 000+ downloads in Google Play Store so far**
 - **4.6 overall stars in Google Play Store**
 
 MVVM, Material Design, Room, Git, ViewBinding, Firebase, QR Code, Excel, Google Admob, Live search, R8...
