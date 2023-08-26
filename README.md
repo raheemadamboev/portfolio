@@ -145,7 +145,7 @@ MVVM, Hilt Dependency Injection, Jetpack Navigation Component, Room, Firebase, V
 This app plays audio of "Kichkina Shahzoda" novel locally. It is easy to use. You can easily control audio by notification.
 
 - **29 000+ downloads in Google Play Store so far**
-- **4.3 overall stars in Google Play Store**
+- **4.4 overall stars in Google Play Store**
 
 _The app was originally made by Material2 XML. It has been migrated to Material3 Jetpack Compose from scratch completely. You can see Material2 XML app in 5B._
 
@@ -217,7 +217,7 @@ _The app was originally made by Material2 XML. It has been migrated to Jetpack C
 
 Notepad is completely offline and ad-free. Regarding adding notes, it has never been straightforward like this. The app supports multiple languages (English, Russian, Uzbek). Auto-save notes.
 
-- **48 000+ downloads in Google Play Store so far**
+- **49 000+ downloads in Google Play Store so far**
 - **4.4 overall stars in Google Play Store**
 - **1 500 - 2 000 daily active users according to Google Analytics**
 
