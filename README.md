@@ -38,7 +38,7 @@ GoTest is one of the biggest educational platform to study in Uzbekistan. You ca
 
 - **Won $10 000 subsidy (funding) from [the Goverment](https://mitc.uz/uz/news/view/3668)**
 - **Won top 40 place in International Startup Tournament [Unicorns SCO 2022](https://unicorns.uz/)**
-- **173 000+ downloads in Google Play Store so far**
+- **176 000+ downloads in Google Play Store so far**
 - **4.5 overall stars in Google Play Store**
 - **Top 3 grossing educational apps in Uzbekistan**
 - **2 000+ daily active users in July/August each year**
@@ -84,7 +84,7 @@ This app helps people who want to learn bookkeeping special account codes. Users
 
 _The app was originally developed by Material2 that you can see at 3B. Material3 implemented from scratch._
 
-- **29 000+ downloads in Google Play Store so far**
+- **30 000+ downloads in Google Play Store so far**
 - **4.7 overall stars in Google Play Store**
 
 MVVM, Material3, Firebase, Room, Hilt, Jetpack Navigation Component, Jetpack DataStore Preferences, ViewBinding, Git, R8, Exoplayer2, Admob, Kotlin Coroutines, Kotlin Flows, Timber, Animations, Handling Configuration Changes, Adaptive Layouts... 
