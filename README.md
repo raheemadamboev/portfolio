@@ -8,7 +8,7 @@ _Obsession, passion, and consistency!_
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 337 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 161 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 162 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 5 | - |
@@ -785,6 +785,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **159** | **Counter Widget** | A simple app that demonstrates building counter widget in Jetpack Glance | Jetpack Glance, Jetpack Compose, Material3, Jetpack DataStore, Kotlin Coroutines, BroadcastReceiver, Widget... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/counter-widget) |
 | **160** | **Image Compression Worker** | A simple app that demonstrates compressing images coming from other apps using Jetpack WorkManager | MVVM, Jetpack Compose, Material3, Hilt, Jetpack WorkManager, Coil, LiveData... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/image-compression-worker) |
 | **161** | **Uri Demo** | A simple app that demonstrates using different types of Android Uri | Jetpack Compose, Material3, Uri, Unique Resource Identifier... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/uri-demo) |
+| **162** | **Shake Animation** | A simple app that demonstrates making shake animations on composables via Jetpack Compose | Jetpack Compose, Material3, Animation, Shake, Animatable... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/shake-animation) |
  
 # Native Android Libraries
 
