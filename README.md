@@ -8,7 +8,7 @@ _Obsession, passion, and consistency!_
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 347 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 167 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 168 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 5 | - |
@@ -791,6 +791,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **165** | **TabRow Demo** | A simple app that demonstrates using TabRow as well as connecting it with HorizontalPager in Material3 | Jetpack Compose, Material3, TabRow, HorizontalPager, Kotlin Coroutines, LaunchedEffect... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/tab-row-demo) |
 | **166** | **Categorized LazyColumn** | A simple app that demonstrates building Categorized Lazy Column with headers in Jetpack Compose | Jetpack Compose, Material3, LazyColumn, CategorizedLazyColumn... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/categorized-lazy-column) |
 | **167** | **Multi-Module Gradle Management** | A simple app that demonstrates managing Gradle in multi-module environment | Gradle, Gradle Plugin, Gradle Kotlin DSL, MultiModule... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/multi-module-gradle-management) |
+| **168** | **CameraX Demo** | Simple app that demonstrates taking photo and capturing video using CameraX | Jetpack Compose, Material3, Kotlin Coroutines, CameraX, Camera2... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/camerax-demo) |
  
 # Native Android Libraries
 
