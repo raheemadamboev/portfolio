@@ -236,12 +236,6 @@ MVVM, Git, Material Design, Room, Threading, R8, Custom Views...
 <p align="center">
  <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/StockX%20Pro.jpg" width="869" height="416" />
 </p>
- 
-<p align="center">
- <a href="https://play.google.com/store/apps/details?id=xyz.teamgravity.stockxpro">
-   <img  src="https://img.shields.io/badge/Play Store-00875f?style=for-the-badge&logo=google&logoColor=white">
- </a>
-</p>
 
 This is the best app to manage your inventory. This app has many features to save your time and automate your job. You can add inventory and sell. You can also add sizes to inventory and you can share QR codes of products. You can use your sale data with the calendar. You can back up your data and you can convert your data to an Excel file. The app supports multi-language (English, Russian, Uzbek). There are more features...
 
@@ -293,12 +287,6 @@ MVVM, Firebase, Hilt Dependency Injection, Kotlin Coroutines, ViewBinding, R8, G
 
 <p align="center">
  <img src="https://github.com/raheemadamboev/portfolio/blob/main/banner/GoTest%20Partner.jpg" width="869" height="416" />
-</p>
- 
-<p align="center">
- <a href="https://play.google.com/store/apps/details?id=xyz.teamgravity.gotestpartner">
-   <img src="https://img.shields.io/badge/Play Store-00875f?style=for-the-badge&logo=google&logoColor=white">
- </a>
 </p>
 
 Console platform for GoTest partners. They can manage their followers and payments.
