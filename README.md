@@ -8,7 +8,7 @@ _Obsession, passion, and consistency!_
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 375 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 174 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 175 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 5 | - |
@@ -786,6 +786,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **172** | **SharedPreferences Delegate** | A simple app that demonstrates using SharedPreferences by Kotlin property delegation | Jetpack Compose, Material3, Kotlin, SharedPreferences, Delegate, Property Delegate... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/shared-preferences-delegate) |
 | **173** | **Splash Screen API Animated** | A simple app that demonstrates implementing animated Splash screen using Splash screen API | Jetpack Compose, Material3, Splash, Splash Screen API... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/splash-screen-api-animated) |
 | **174** | **Multiple BackStacks** | A simple app that demonstrates having multiple back stacks using Jetpack Compose Navigation via NavigationBar | Jetpack Compose, Material3, Jetpack Compose Navigation... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/multiple-back-stacks) |
+| **175** | **Magnifier Demo** | A simple app that demonstrates using Magnifier modifier in Jetpack Compose | Jetpack Compose, Material3, Magnifier... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/magnifier-demo) |
  
 # Native Android Libraries
 
