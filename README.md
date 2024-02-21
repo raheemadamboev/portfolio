@@ -8,7 +8,7 @@ _Obsession, passion, and consistency!_
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 390 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 176 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 177 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 5 | - |
@@ -788,6 +788,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **174** | **Multiple BackStacks** | A simple app that demonstrates having multiple back stacks using Jetpack Compose Navigation via NavigationBar | Jetpack Compose, Material3, Jetpack Compose Navigation... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/multiple-back-stacks) |
 | **175** | **Magnifier Demo** | A simple app that demonstrates using Magnifier modifier in Jetpack Compose | Jetpack Compose, Material3, Magnifier... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/magnifier-demo) |
 | **176** | **AppSearch Demo** | A simple app that demonstrates using AppSearch to store and search ToDos persistently | MVVM, Jetpack Compose, Material3, AppSearch, Kotlin Coroutines, Kotlin Flows, Hilt... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/app-search-demo) |
+| **177** | **AppShortcut Demo** | A simple app that demonstrates using static, dynamic, and pinned App Shortcuts | MVVM, Jetpack Compose, Material3, AppShortcut, Shortcut... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/app-shortcut-demo) |
  
 # Native Android Libraries
 
