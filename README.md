@@ -8,7 +8,7 @@ _Obsession, passion, and consistency!_
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 390 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 179 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 180 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 5 | - |
@@ -791,6 +791,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **177** | **AppShortcut Demo** | A simple app that demonstrates using static, dynamic, and pinned App Shortcuts | MVVM, Jetpack Compose, Material3, AppShortcut, Shortcut... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/app-shortcut-demo) |
 | **178** | **SwipeToDismiss** | A simple app that demonstrates removing item with animation via swiping using SwipeToDismissBox | Jetpack Compose, Material3, SwipeToDismissBox... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/swipe-to-dismiss) |
 | **179** | **BasicTextField2 Demo** | A simple app that demonstrates using BasicTextField2 and BasicSecureTextField in Jetpack Compose | Jetpack Compose, Material3, ViewModel, BasicTextField2, BasicSecureTextField... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/basictextfield2-demo) |
+| **180** | **ReceiveContent Demo** | A simple app that demonstrates using receiveContent modifier function to receive gifs, stickers, and other type of contents from keyboard and displaying it to the user | Jetpack Compose, Material3, Coil, ReceiveContent, ReciveGif, ReceiveSticker, Gif, Sticker... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/receive-content-demo) |
 
  
 # Native Android Libraries
