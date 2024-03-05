@@ -8,7 +8,7 @@ _Obsession, passion, and consistency!_
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 399 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 183 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 184 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 5 | - |
@@ -795,6 +795,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **181** | **DerivedStateOf Remember** | A simple app that demonstrates using derivedStateOf effect handler by comparing it to remember function | Jetpack Compose, Material3, EffectHandlers, derivedStateOf, remember... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/derivedstateof-remember) |
 | **182** | **Compose Preview Demo** | A simple app that demonstrates using preview functionality of Jetpack Compose | Jetpack Compose, Material3, Preview... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/compose-preview-demo) |
 | **183** | **SwipeToDeleteEdit** | A simple app that demonstrates using swipe to do some actions on items in RecyclerView | MVVM, Material3, Kotlin Coroutines, Kotlin Flows, RecyclerView, SwipeToDismiss, SwipeToDelete, SwipeToEdit, SwipeToAction... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/swipe-to-delete-edit) |
+| **184** | **SwipeToAction** | A simple app that demonstrates using swipe to menu/action on items in RecyclerView | MVVM, Material3, Kotlin Coroutines, Kotlin Flows, RecyclerView, SwipeToMenu, SwipeToAction, SwipeToDelete, SwipeToEdit... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/swipe-to-action) |
 
  
 # Native Android Libraries
