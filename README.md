@@ -8,7 +8,7 @@ _Obsession, passion, and consistency!_
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 399 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 186 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 187 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 5 | - |
@@ -798,6 +798,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **184** | **SwipeToAction** | A simple app that demonstrates using swipe to menu/action on items in RecyclerView | MVVM, Material3, Kotlin Coroutines, Kotlin Flows, RecyclerView, SwipeToMenu, SwipeToAction, SwipeToDelete, SwipeToEdit... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/swipe-to-action) |
 | **185** | **MongoDB Realm Demo** | A simple app that demonstrates using and making relationships on MongoDB Realm NoSQL database | MVVM, Jetpack Compose, Material3, MongoDB Realm, Kotlin Coroutines, Kotlin Flows, Hilt... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/mongodb-realm-demo) |
 | **186** | **Custom Shape Demo** | A simple app that demonstrates creating custom shapes that could clip components in Jetpack Compose | Jetpack Compose, Material3, Shape, Canvas, Path... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/custom-shape-demo) |
+| **187** | **MLKit Document Scanner Demo** | A simple app that demonstrates using camera to scan documents and saving the result as a pdf in internal storage using MLKit Document Scanner API | Jetpack Compose, Material3, MLKit, MLKit Document Scanner, Coil... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/mlkit-document-scanner-demo) |
 
  
 # Native Android Libraries
