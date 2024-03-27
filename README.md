@@ -8,7 +8,7 @@ _Obsession, passion, and consistency!_
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 399 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 188 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 189 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 5 | - |
@@ -800,6 +800,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **186** | **Custom Shape Demo** | A simple app that demonstrates creating custom shapes that could clip components in Jetpack Compose | Jetpack Compose, Material3, Shape, Canvas, Path... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/custom-shape-demo) |
 | **187** | **MLKit Document Scanner Demo** | A simple app that demonstrates using camera to scan documents and saving the result as a pdf in internal storage using MLKit Document Scanner API | Jetpack Compose, Material3, MLKit, MLKit Document Scanner, Coil... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/mlkit-document-scanner-demo) |
 | **188** | **Biometric Demo** | A simple app that demonstrates authenticating using device biometrics (Fingerprint Recognition, Face Recognition, Graphic Pattern and others) | Jetpack Compose, Material3, Kotlin Flows, Biometric... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/biometric-demo) |
+| **189** | **Error Handling Layers** | A simple app that demonstrates properly handling errors through different architectural layers | Clean Architecture, MVVM, Jetpack Compose, Material3, Kotlin Coroutines, Kotlin Flows, Error Handling... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/error-handling-layers) |
 
  
 # Native Android Libraries
