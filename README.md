@@ -18,7 +18,7 @@ _Obsession, passion, and consistency!_
 | <a href="https://github.com/raheemadamboev/portfolio#react-native-applications">Hobby React Native apps<a/> | 4 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#jetpack-compose-desktop-applications">Hobby Desktop apps<a/> | 1 | - |
 
-> **Note**: Statistics are updated manually at 01.03.2024.
+> **Note**: Statistics are updated manually at 01.04.2024.
 
 # Production Android apps
 
