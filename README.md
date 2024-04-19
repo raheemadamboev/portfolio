@@ -8,7 +8,7 @@ _Obsession, passion, and consistency!_
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 414 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 191 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 192 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 5 | - |
@@ -803,6 +803,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **189** | **Error Handling Layers** | A simple app that demonstrates properly handling errors through different architectural layers | Clean Architecture, MVVM, Jetpack Compose, Material3, Kotlin Coroutines, Kotlin Flows, Error Handling... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/error-handling-layers) |
 | **190** | **UseCase 5 Mistakes** | This is top 5 Clean Architecture usecase mistakes that we must avoid | Clean Architecture, Jetpack Compose, Material3, Kotlin Coroutines, UseCase... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/usecase-5-mistakes) |
 | **191** | **PullToRefresh Demo** | A simple app that demonstrates using Material3 PullToRefresh component in Jetpack Compose | Jetpack Compose, Material3, PullToRefresh, SwipeToRefresh... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/pull-to-refresh-demo) |
+| **192** | **Neumorphic Clickable Circle** | A simple app that demonstrates clickable circle in Neumorphic style | Jetpack Compose, Material3, Neumorphism... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/neumorphic-clickable-circle) |
 
  
 # Native Android Libraries
