@@ -8,7 +8,7 @@ _Obsession, passion, and consistency!_
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 443 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 196 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 197 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 5 | - |
@@ -808,6 +808,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **194** | **Animated Dialog** | A simple app that demonstrates implementing custom animated dialog in Jetpack Compose | Jetpack Compose, Material3, Dialog, Animation... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/animated-dialog) |
 | **195** | **SharedElementTransition Demo** | A simple app that demonstrates implementing shared element transition using Jetpack Compose Animation API | Jetpack Compose, Material3, Jetpack Compose Navigation, Animation, Jetpack Compose Animation, SharedElementTransition... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/shared-element-transition-demo) |
 | **196** | **Type-Safe Compose Navigation** | A simple app that demonstrates using Jetpack Compose Navigation in a type-safe way | Jetpack Compose, Material3, Jetpack Compose Navigation, Kotlin Serialization, Type-Safe Navigation... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/type-safe-compose-navigation) |
+| **197** | **PopBackStack Issue** | A simple app that demonstrates the popBackStack() issue that could happen when user clicks the button multiple times fast resulting in unintended popping the navigation | Jetpack Compose, Material3, Jetpack Compose Navigation... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/pop-back-stack-issue) |
 
  
 # Native Android Libraries
