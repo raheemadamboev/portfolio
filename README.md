@@ -6,7 +6,7 @@ _Obsession, passion, and consistency!_
 
 | Section | Count | Downloads |
 |----------|-------|-----------|
-| <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 443 000+ |
+| <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 470 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 198 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
@@ -38,8 +38,8 @@ GoTest is one of the biggest educational platform to study in Uzbekistan. You ca
 
 - **Won $10 000 subsidy (funding) from [the Goverment](https://mitc.uz/uz/news/view/3668)**
 - **Won top 40 place in International Startup Tournament [Unicorns SCO 2022](https://unicorns.uz/)**
-- **225 000+ downloads in Google Play Store so far**
-- **4.4 overall stars in Google Play Store**
+- **241 000+ downloads in Google Play Store so far**
+- **4.5 overall stars in Google Play Store**
 - **Top 3 grossing educational apps in Uzbekistan**
 - **2 000+ daily active users in July/August each year**
 - **Reached 1st place in educational apps in Google Play Store in August 2021**
@@ -58,8 +58,8 @@ MVVM, Jetpack Navigation Component, Room, Kotlin Flows, Git, R8, Firebase, GSON,
  </a>
 </p>
 
-- **9 000+ downloads in Google Play Store so far**
-- **4.7 overall stars in Google Play Store**
+- **11 000+ downloads in Google Play Store so far**
+- **4.5 overall stars in Google Play Store**
 
 Solve English grammar multiple-choice questions with the English Grammar Tests. You can improve your English grammar skills by using the application daily. Application is fully robust to configuration changes and process deaths. Different screen layouts are made for different orientations.
 
@@ -84,7 +84,7 @@ This app helps people who want to learn bookkeeping special account codes. Users
 
 _The app was originally developed by Material2 that you can see at 3B. Material3 implemented from scratch._
 
-- **45 000+ downloads in Google Play Store so far**
+- **47 000+ downloads in Google Play Store so far**
 - **4.8 overall stars in Google Play Store**
 
 MVVM, Material3, Firebase, Room, Hilt, Jetpack Navigation Component, Jetpack DataStore Preferences, ViewBinding, Git, R8, Exoplayer2, Admob, Kotlin Coroutines, Kotlin Flows, Timber, Animations, Handling Configuration Changes, Adaptive Layouts... 
@@ -144,7 +144,7 @@ MVVM, Hilt Dependency Injection, Jetpack Navigation Component, Room, Firebase, V
 
 This app plays audio of "Kichkina Shahzoda" novel locally. It is easy to use. You can easily control audio by notification.
 
-- **41 000+ downloads in Google Play Store so far**
+- **43 000+ downloads in Google Play Store so far**
 - **4.6 overall stars in Google Play Store**
 
 _The app was originally made by Material2 XML. It has been migrated to Material3 Jetpack Compose from scratch completely. You can see Material2 XML app in 5B._
@@ -177,7 +177,7 @@ MVVM, Hilt Dependency Injection, Jetpack Navigation Component, Glide, Exoplayer,
  </a>
 </p>
 
-- **250+ downloads in Google Play Store so far**
+- **300+ downloads in Google Play Store so far**
 - **4.8 overall stars in Google Play Store**
 
 A beautifully simple ToDo application that emphasises simplicity and ease of use. Whether you want a shopping list, grocery list or you just have lots of things to remember ToDo is built for you. ToDo is fully offline as it does not require internet connection. Also, ToDo is very fast and very light! The size of APK is lighter than 2 MB. It also supports Dark Mode and multiple languages (English, Russian, Uzbek).
@@ -217,8 +217,8 @@ _The app was originally made by Material2 XML. It has been migrated to Jetpack C
 
 Notepad is completely offline and ad-free. Regarding adding notes, it has never been straightforward like this. The app supports multiple languages (English, Russian, Uzbek). Auto-save notes.
 
-- **76 000+ downloads in Google Play Store so far**
-- **4.7 overall stars in Google Play Store**
+- **80 000+ downloads in Google Play Store so far**
+- **4.6 overall stars in Google Play Store**
 - **2 500+ daily active users according to Google Analytics**
 
 MVVM, Jetpack Compose, Compose Destinations, Firebase, R8, Hilt, Kotlin Coroutines, Room, Jetpack DataStore Preferences, Kotlin Flows, Process Death Handling, Material3, Git... 
@@ -260,8 +260,8 @@ This app helps people who want to learn English irregular verbs by playing inter
 
 _The app was originally developed by Material2 that you can see at 9B. Material3 implemented from scratch._
 
-- **22 000+ downloads in Google Play Store so far**
-- **4.4 overall stars in Google Play Store**
+- **23 000+ downloads in Google Play Store so far**
+- **4.5 overall stars in Google Play Store**
 
 MVVM, Material3, Firebase, Room, Hilt, Jetpack Navigation Component, Jetpack DataStore Preferences, ViewBinding, Git, R8, Exoplayer2, Admob, Kotlin Coroutines, Kotlin Flows, Timber, Animations, Handling Configuration Changes, Adaptive Layouts... 
 
