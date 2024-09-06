@@ -8,7 +8,7 @@ _Obsession, passion, and consistency!_
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 470 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 198 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 199 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 5 | - |
@@ -810,6 +810,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **196** | **Type-Safe Compose Navigation** | A simple app that demonstrates using Jetpack Compose Navigation in a type-safe way | Jetpack Compose, Material3, Jetpack Compose Navigation, Kotlin Serialization, Type-Safe Navigation... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/type-safe-compose-navigation) |
 | **197** | **PopBackStack Issue** | A simple app that demonstrates the popBackStack() issue that could happen when user clicks the button multiple times fast resulting in unintended popping the navigation | Jetpack Compose, Material3, Jetpack Compose Navigation... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/pop-back-stack-issue) |
 | **198** | **NavigationSuiteScaffold Demo** | A simple app that demonstrates using NavigationSuiteScaffold to display proper navigation component on different sizes of screens | Jetpack Compose, Material3, NavigationSuiteScaffold, NavigationBar, NavigationRail, NavigationDrawer... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/navigation-suite-scaffold-demo) |
+| **199** | **ProductFlavor Demo** | A simple app that demonstrates using product flavors and build types to create different flavor of apps from shared codebase | Material3, XML, View, BuildType, ProductFlavor, ProductDimension, BuildVariant... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/product-flavor-demo) |
 
  
 # Native Android Libraries
