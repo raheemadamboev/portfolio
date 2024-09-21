@@ -813,7 +813,6 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **199** | **ProductFlavor Demo** | A simple app that demonstrates using product flavors and build types to create different flavor of apps from shared codebase | Material3, XML, View, BuildType, ProductFlavor, ProductDimension, BuildVariant... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/product-flavor-demo) |
 | **200** | **NavigableListDetailPaneScaffold Demo** | A simple app that demonstrates using NavigableListDetailPaneScaffold to adaptively showing composables | Jetpack Compose, Material3, NavigableListDetailPaneScaffold, AdaptiveLayout... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/navigable-list-detail-pane-scaffold-demo) |
 | **201** | **ScrollableEditText Demo** | A simple app that demonstrates making EditText scrollable in View system | Material3, XML, View, EditText, ScrollableEditText... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/scrollable-edit-text-demo) |
-
  
 # Native Android Libraries
 
