@@ -8,7 +8,7 @@ _Obsession, passion, and consistency!_
 |----------|-------|-----------|
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 492 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 201 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 202 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 5 | - |
@@ -813,6 +813,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **199** | **ProductFlavor Demo** | A simple app that demonstrates using product flavors and build types to create different flavor of apps from shared codebase | Material3, XML, View, BuildType, ProductFlavor, ProductDimension, BuildVariant... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/product-flavor-demo) |
 | **200** | **NavigableListDetailPaneScaffold Demo** | A simple app that demonstrates using NavigableListDetailPaneScaffold to adaptively showing composables | Jetpack Compose, Material3, NavigableListDetailPaneScaffold, AdaptiveLayout... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/navigable-list-detail-pane-scaffold-demo) |
 | **201** | **ScrollableEditText Demo** | A simple app that demonstrates making EditText scrollable in View system | Material3, XML, View, EditText, ScrollableEditText... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/scrollable-edit-text-demo) |
+| **202** | **Compose Preview Screenshot Testing Demo** | A simple app that demonstrates screenshot testing Jetpack Compose screens via Compose Preview Screenshot Testing | Jetpack Compose, Material3, Jetpack Compose Preview, Screenshot Testing, Compose Preview Screenshot Testing... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/compose-preview-screenshot-testing-demo) |
  
 # Native Android Libraries
 
