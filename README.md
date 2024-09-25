@@ -9,12 +9,12 @@ _Obsession, passion, and consistency!_
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 492 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 202 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#kotlin-multiplatform-mobile-applications">Hobby Kotlin Multiplatform apps<a/> | 4 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#native-android-apps">Hobby Native Android apps</a> | 202 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#kotlin-multiplatform-applications">Hobby Kotlin Multiplatform apps<a/> | 4 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#wear-os-applications">Hobby Wear OS apps<a/> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#flutter-applications">Hobby Flutter apps<a/> | 2 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#react-native-applications">Hobby React Native apps<a/> | 4 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#jetpack-compose-desktop-applications">Hobby Desktop apps<a/> | 1 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#desktop-applications">Hobby Desktop apps<a/> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 5 | - |
 
@@ -357,7 +357,7 @@ MVVM, Firebase, Kotlin Coroutines, Kotlin Flows, Room, Hilt Dependency Injection
 | **4** | **Timer Flow** | Light library that gives you timer functionality and exposes Kotlin Flow | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/timer-flow) |
 | **5** | **Pin Lock Compose** | Light library that is beautiful Pin Lock screen for Jetpack Compose | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/pin-lock-compose) |
 
-# Hobby Native Android apps
+# Native Android apps
 
 ## 1. Note Taker
 
@@ -825,7 +825,42 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **201** | **ScrollableEditText Demo** | A simple app that demonstrates making EditText scrollable in View system | Material3, XML, View, EditText, ScrollableEditText... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/scrollable-edit-text-demo) |
 | **202** | **Compose Preview Screenshot Testing Demo** | A simple app that demonstrates screenshot testing Jetpack Compose screens via Compose Preview Screenshot Testing | Jetpack Compose, Material3, Jetpack Compose Preview, Screenshot Testing, Compose Preview Screenshot Testing... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/compose-preview-screenshot-testing-demo) |
  
+# Kotlin Multiplatform Applications
 
+| № | Name | Description | Tech stack | Navigation |
+|---|------|-------------|------------|------------|
+| **1** | **KMM Hello World** | Hello World app in Kotlin Multiplatform Mobile | KMM, Android, IOS... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/kmm-hello-world) |
+| **2** | **Decompose Demo** | A simple KMM app that demonstrates using Decompose via Compose Multiplatform | Jetpack Compose, Kotlin Multiplaform, Kotlin Multiplatfrom Mobile, Compose Multiplatform, Decompose, Kotlin Serialization... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/decompose-demo) |
+| **3** | **ViewModel Compose Multiplatform** | A simple app that demonstrates using Jetpack ViewModel in Android and IOS using Compose Multiplatform | MVVM, Kotlin Multiplatform, Kotlin Multiplatform Mobile, Jetpack Compose, Compose Multiplatform, Material3, Kotlin Coroutines, Kotlin Flows, Koin, Jetpack ViewModel... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/viewmodel-compose-multiplatform) |
+| **4** | **Room Compose Multiplatform** | A simple app that demonstrates using Jetpack Room in Android and IOS using Compose Multiplatform | Kotlin Multiplatform, Kotlin Multiplatform Mobile, Jetpack Compose, Compose Multiplatform, Material3, Kotlin Coroutines, Kotlin Flows, Room... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/room-compose-multiplatform) |
+
+# Wear OS Applications
+
+| № | Name | Description | Tech stack | Navigation |
+|---|------|-------------|------------|------------|
+| **1** | **Stopwatch Wear OS** | A simple stopwatch app for Wear OS | Wear OS, Jetpack Compose, Material2, Kotlin Flows, Kotlin Coroutines, ViewModel... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/stopwatch-wear-os) |
+
+# Flutter Applications
+
+| № | Name | Description | Tech stack | Navigation |
+|---|------|-------------|------------|------------|
+| **1** | **WordPair Generator** | Flutter app to get and save word pairs | Flutter, Dart, Navigation, Material Design... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/word-pair-generator) |
+| **2** | **Notepad** | Flutter application that you can add and edit notes from cloud. It also implements authentication system. | Flutter, MVVM, Firebase, Injectable, GetIt, Bloc, Cubit, Freezed, AutoRoute, Material Design... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/notepad) |
+
+# React Native Applications
+
+| № | Name | Description | Tech stack | Navigation |
+|---|------|-------------|------------|------------|
+| **1** | **First React Native App** | This is a plain first React Native app that is developed by me | React Native, React Hooks | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/first-react-native-app) |
+| **2** | **React Native ToDo API App** | Simple React Native app that gets data from REST API using Fetch API written in TypeScript | React Native, Fetch API, React Hooks | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/react-native-todo-api-app) |
+| **3** | **Guess My Number** | React Native app that tries to guess your number written in TypeScript | React Native, React Hooks | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/guess-my-number) |
+| **4** | **Goal Tracker** | Simple React Native app that tracks your goals | React Native, React Hooks | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/goal-tracker) |
+
+# Desktop Applications
+
+| № | Name | Description | Tech stack | Navigation |
+|---|------|-------------|------------|------------|
+| **1** | **Stopwatch Desktop** | Simple Stopwatch Desktop application that is written using Jetpack Compose, Kotlin Coroutines... | Jetpack Compose, Kotlin Coroutines... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/stopwatch-desktop) |
 
 # Backend Applications
 
@@ -846,43 +881,6 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **3** | **TypeScript Playground** | TypeScript playground to play with TypeScript! | TypeScript | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/typescript-playground) |
 | **4** | **Dart Playground** | This is a playground to learn Dart programming language! | Dart | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/dart-playground) |
 | **5** | **Learning Git** | This is plain repository for learning git! | Git | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/learning-git) |
-
-# Flutter Applications
-
-| № | Name | Description | Tech stack | Navigation |
-|---|------|-------------|------------|------------|
-| **1** | **WordPair Generator** | Flutter app to get and save word pairs | Flutter, Dart, Navigation, Material Design... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/word-pair-generator) |
-| **2** | **Notepad** | Flutter application that you can add and edit notes from cloud. It also implements authentication system. | Flutter, MVVM, Firebase, Injectable, GetIt, Bloc, Cubit, Freezed, AutoRoute, Material Design... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/notepad) |
-
-# Wear OS Applications
-
-| № | Name | Description | Tech stack | Navigation |
-|---|------|-------------|------------|------------|
-| **1** | **Stopwatch Wear OS** | A simple stopwatch app for Wear OS | Wear OS, Jetpack Compose, Material2, Kotlin Flows, Kotlin Coroutines, ViewModel... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/stopwatch-wear-os) |
-
-# Kotlin Multiplatform Mobile Applications
-
-| № | Name | Description | Tech stack | Navigation |
-|---|------|-------------|------------|------------|
-| **1** | **KMM Hello World** | Hello World app in Kotlin Multiplatform Mobile | KMM, Android, IOS... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/kmm-hello-world) |
-| **2** | **Decompose Demo** | A simple KMM app that demonstrates using Decompose via Compose Multiplatform | Jetpack Compose, Kotlin Multiplaform, Kotlin Multiplatfrom Mobile, Compose Multiplatform, Decompose, Kotlin Serialization... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/decompose-demo) |
-| **3** | **ViewModel Compose Multiplatform** | A simple app that demonstrates using Jetpack ViewModel in Android and IOS using Compose Multiplatform | MVVM, Kotlin Multiplatform, Kotlin Multiplatform Mobile, Jetpack Compose, Compose Multiplatform, Material3, Kotlin Coroutines, Kotlin Flows, Koin, Jetpack ViewModel... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/viewmodel-compose-multiplatform) |
-| **4** | **Room Compose Multiplatform** | A simple app that demonstrates using Jetpack Room in Android and IOS using Compose Multiplatform | Kotlin Multiplatform, Kotlin Multiplatform Mobile, Jetpack Compose, Compose Multiplatform, Material3, Kotlin Coroutines, Kotlin Flows, Room... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/room-compose-multiplatform) |
-
-# React Native Applications
-
-| № | Name | Description | Tech stack | Navigation |
-|---|------|-------------|------------|------------|
-| **1** | **First React Native App** | This is a plain first React Native app that is developed by me | React Native, React Hooks | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/first-react-native-app) |
-| **2** | **React Native ToDo API App** | Simple React Native app that gets data from REST API using Fetch API written in TypeScript | React Native, Fetch API, React Hooks | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/react-native-todo-api-app) |
-| **3** | **Guess My Number** | React Native app that tries to guess your number written in TypeScript | React Native, React Hooks | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/guess-my-number) |
-| **4** | **Goal Tracker** | Simple React Native app that tracks your goals | React Native, React Hooks | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/goal-tracker) |
-
-# Jetpack Compose Desktop Applications
-
-| № | Name | Description | Tech stack | Navigation |
-|---|------|-------------|------------|------------|
-| **1** | **Stopwatch Desktop** | Simple Stopwatch Desktop application that is written using Jetpack Compose, Kotlin Coroutines... | Jetpack Compose, Kotlin Coroutines... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/stopwatch-desktop) |
 
 # Achievements
 
