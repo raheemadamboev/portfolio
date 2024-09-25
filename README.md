@@ -10,7 +10,7 @@ _Obsession, passion, and consistency!_
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-apps">Hobby Native Android apps</a> | 202 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#kotlin-multiplatform-applications">Hobby Kotlin Multiplatform apps<a/> | 4 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#kotlin-multiplatform-applications">Hobby Kotlin Multiplatform apps<a/> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#wear-os-applications">Hobby Wear OS apps<a/> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#flutter-applications">Hobby Flutter apps<a/> | 2 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#react-native-applications">Hobby React Native apps<a/> | 4 | - |
@@ -833,6 +833,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **2** | **Decompose Demo** | A simple KMM app that demonstrates using Decompose via Compose Multiplatform | Jetpack Compose, Kotlin Multiplaform, Kotlin Multiplatfrom Mobile, Compose Multiplatform, Decompose, Kotlin Serialization... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/decompose-demo) |
 | **3** | **ViewModel Compose Multiplatform** | A simple app that demonstrates using Jetpack ViewModel in Android and IOS using Compose Multiplatform | MVVM, Kotlin Multiplatform, Kotlin Multiplatform Mobile, Jetpack Compose, Compose Multiplatform, Material3, Kotlin Coroutines, Kotlin Flows, Koin, Jetpack ViewModel... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/viewmodel-compose-multiplatform) |
 | **4** | **Room Compose Multiplatform** | A simple app that demonstrates using Jetpack Room in Android and IOS using Compose Multiplatform | Kotlin Multiplatform, Kotlin Multiplatform Mobile, Jetpack Compose, Compose Multiplatform, Material3, Kotlin Coroutines, Kotlin Flows, Room... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/room-compose-multiplatform) |
+| **5** | **Compose Multiplatform Hello World Demo** | A simple app that demonstrates building Hello World app for Android, IOS, Desktop using Compose Multiplatform | Kotlin Multiplatform, Kotlin Mutliplatform Mobile, Compose Multiplatform, Jetpack Compose, Material3, Desktop... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/compose-multiplatform-hello-world-demo) |
 
 # Wear OS Applications
 
