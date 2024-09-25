@@ -10,12 +10,12 @@ _Obsession, passion, and consistency!_
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#hobby-native-android-apps">Hobby Native Android apps</a> | 202 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#flutter-applications">Hobby Flutter apps<a/> | 2 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#kotlin-multiplatform-mobile-applications">Hobby Kotlin Multiplatform apps<a/> | 4 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#wear-os-applications">Hobby Wear OS apps<a/> | 1 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#kotlin-multiplatform-mobile-applications">Hobby Kotlin Multiplatform Mobile apps<a/> | 4 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#flutter-applications">Hobby Flutter apps<a/> | 2 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#react-native-applications">Hobby React Native apps<a/> | 4 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#jetpack-compose-desktop-applications">Hobby Desktop apps<a/> | 1 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 5 | - |
 
 > Updated at 01.09.2024.
