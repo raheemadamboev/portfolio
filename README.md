@@ -10,7 +10,7 @@ _Obsession, passion, and consistency!_
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-apps">Hobby Native Android apps</a> | 202 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#kotlin-multiplatform-applications">Hobby Kotlin Multiplatform apps<a/> | 8 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#kotlin-multiplatform-applications">Hobby Kotlin Multiplatform apps<a/> | 9 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#wear-os-applications">Hobby Wear OS apps<a/> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#flutter-applications">Hobby Flutter apps<a/> | 2 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#react-native-applications">Hobby React Native apps<a/> | 4 | - |
@@ -837,6 +837,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **6** | **Expect Actual Demo** | A simple app that demonstrates using expect and actual keywords in Kotlin Multiplatform | Kotlin Multiplatform, Compose Multiplatform, Jetpack Compose, Oshi... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/expect-actual-demo) |
 | **7** | **Compose Multiplatform Resources Demo** | A simple app that demonstrates sharing resources in Compose Multiplatform | Kotlin Multiplatform, Compose Multiplatform, Jetpack Compose... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/compose-multiplatform-resources-demo) |
 | **8** | **Koin Multiplatform Demo** | A simple app that demonstrates achieving dependency injection using Koin in Kotlin Multiplatform | MVVM, Kotlin Multiplatform, Compose Multiplatform, Jetpack Compose, Jetpack Compose Navigation, ViewModel, Koin... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/koin-multiplatform-demo) |
+| **9** | **Kotlin Multiplatform Test Demo** | A simple app that demonstrates writing unit tests for shared code, platform specific code, instrumented Android specific code, UI composables in Kotlin Multiplatform | Kotlin Multiplatform, Compose Multiplatform, Jetpack Compose, AssertK, Kotlin Test, JUnit, Instrumented Test, Jetpack Compose Test... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/kotlin-multiplatform-test-demo) |
 
 # Wear OS Applications
 
