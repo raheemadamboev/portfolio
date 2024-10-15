@@ -10,7 +10,7 @@ _Obsession, passion, and consistency!_
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-apps">Hobby Native Android apps</a> | 202 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#kotlin-multiplatform-applications">Hobby Kotlin Multiplatform apps<a/> | 13 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#kotlin-multiplatform-applications">Hobby Kotlin Multiplatform apps<a/> | 14 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#wear-os-applications">Hobby Wear OS apps<a/> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#flutter-applications">Hobby Flutter apps<a/> | 2 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#react-native-applications">Hobby React Native apps<a/> | 4 | - |
@@ -842,6 +842,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **11** | **MOKO Permissions Demo** | A simple app that demonstrates using MOKO permissions library to handle permissions in Android and IOS via Kotlin Multiplatform | Kotlin Multiplatform, Compose Multiplatform, Jetpack Compose, Material3, Lifecycle, ViewModel, MOKO Permissions, Kotlin Coroutines... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/moko-permissions-demo) |
 | **12** | **DataStore Preferences Multiplatform Demo** | A simple app that demonstrates saving key value pairs in DataStore Preferences in Kotlin Multiplatform | Kotlin Multiplatform, Compose Multiplatform, Jetpack Compose, Material3, Kotlin Coroutines, DataStore Preferences... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/datastore-preferences-multiplatform-demo) |
 | **13** | **Splash Multiplatform Demo** | A simple app that demonstrates displaying splash screen in Kotlin Multiplatform | Kotlin Multiplatform, Compose Multiplatform, Jetpack Compose, Material3, Splash Screen, Kotlin Coroutines... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/splash-multiplatform-demo) |
+| **14** | **DateTime Demo** | A simple app that demonstrates using KotlinX DateTime in Kotlin Multiplatform | Kotlin Multiplatform, Compose Multiplatform, Jetpack Compose, Material3, Kotlin DateTime, Kotlin Collections, Kotlin Coroutines, Kotlin Flows... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/datetime-demo) |
 
 # Wear OS Applications
 
