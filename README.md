@@ -9,7 +9,7 @@ _Obsession, passion, and consistency!_
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 501 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#native-android-apps">Hobby Native Android apps</a> | 203 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#native-android-apps">Hobby Native Android apps</a> | 204 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#kotlin-multiplatform-applications">Hobby Kotlin Multiplatform apps<a/> | 14 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#wear-os-applications">Hobby Wear OS apps<a/> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#flutter-applications">Hobby Flutter apps<a/> | 2 | - |
@@ -825,6 +825,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **201** | **ScrollableEditText Demo** | A simple app that demonstrates making EditText scrollable in View system | Material3, XML, View, EditText, ScrollableEditText... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/scrollable-edit-text-demo) |
 | **202** | **Compose Preview Screenshot Testing Demo** | A simple app that demonstrates screenshot testing Jetpack Compose screens via Compose Preview Screenshot Testing | Jetpack Compose, Material3, Jetpack Compose Preview, Screenshot Testing, Compose Preview Screenshot Testing... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/compose-preview-screenshot-testing-demo) |
 | **203** | **Compose Drag Drop Demo** | A simple app that demonstrates using Drag and Drop in Jetpack Compose | Jetpack Compose, Material3, Kotlin Collections, Drag And Drop, AnimatedVisibility... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/compose-drag-drop-demo) |
+| **204** | **Custom Type-Safe NavType** | A simple app that demonstrates navigating with custom types by implementing NavType in type-safe way via Jetpack Compose Navigation | Jetpack Compose, Material3, Kotlin Serialization, Kotlin Reflect, Kotlin Collections, Jetpack Compose Navigation, NavType, Type-Safe NavType... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/custom-type-safe-nav-type) |
  
 # Kotlin Multiplatform Applications
 
