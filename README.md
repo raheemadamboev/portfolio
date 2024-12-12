@@ -9,7 +9,7 @@ _Obsession, passion, and consistency!_
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 532 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#native-android-apps">Hobby Native Android apps</a> | 205 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#native-android-apps">Hobby Native Android apps</a> | 206 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#kotlin-multiplatform-applications">Hobby Kotlin Multiplatform apps<a/> | 14 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#wear-os-applications">Hobby Wear OS apps<a/> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#flutter-applications">Hobby Flutter apps<a/> | 2 | - |
@@ -18,7 +18,7 @@ _Obsession, passion, and consistency!_
 | <a href="https://github.com/raheemadamboev/portfolio#backend-applications">Hobby Backend apps</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#programming-language-and-algorithm-playgrounds">Programming Language and Algorithm playgrounds</a> | 5 | - |
 
-> Updated at 01.11.2024.
+> Updated at 01.12.2024.
 
 # Production Android apps
 
@@ -827,6 +827,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **203** | **Compose Drag Drop Demo** | A simple app that demonstrates using Drag and Drop in Jetpack Compose | Jetpack Compose, Material3, Kotlin Collections, Drag And Drop, AnimatedVisibility... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/compose-drag-drop-demo) |
 | **204** | **Custom Type-Safe NavType** | A simple app that demonstrates navigating with custom types by implementing NavType in type-safe way via Jetpack Compose Navigation | Jetpack Compose, Material3, Kotlin Serialization, Kotlin Reflect, Kotlin Collections, Jetpack Compose Navigation, NavType, Type-Safe NavType... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/custom-type-safe-nav-type) |
 | **205** | **External Storage Media Files** | A simple app that demonstrates reading all media files from external storage with handling permissions properly according to Android API level | Jetpack Compose, Material3, Kotlin Collections, Kotlin Coroutines, Coil, MediaStore... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/external-storage-media-files) |
+| **206** | **Compose PDF Render Search** | A simple app that demonstrates rendering PDF files to Bitmap in order to display them in Image composable as well as enabling search for text functionality | Jetpack Compose, Material3, Kotlin Coroutines, Kotlin Collections, Coil, Canvas, Bitmap, PDF, PdfRenderer... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/compose-pdf-render-search) |
  
 # Kotlin Multiplatform Applications
 
