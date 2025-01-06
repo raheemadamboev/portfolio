@@ -9,7 +9,7 @@ _Obsession, passion, and consistency!_
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 532 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#native-android-apps">Hobby Native Android apps</a> | 211 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#native-android-apps">Hobby Native Android apps</a> | 212 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#kotlin-multiplatform-applications">Hobby Kotlin Multiplatform apps<a/> | 14 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#wear-os-applications">Hobby Wear OS apps<a/> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#flutter-applications">Hobby Flutter apps<a/> | 2 | - |
@@ -833,6 +833,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **209** | **Ktor Client Upload File** | A simple app that demonstrates uploading file to the server with progress bar using Ktor Client and Kotlin Coroutines | MVVM, Jetpack Compose, Material3, ViewModel, Ktor Client, Kotlin Coroutines, Kotlin Flows... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/ktor-client-upload-file) |
 | **210** | **Compose Navigation Deep Link** | A simple app that demonstrates handling deep links in a type-safe way via Jetpack Compose Navigation | Jetpack Compose, Material3, Kotlin Serialization, Jetpack Compose Navigation, Deep Linking, Deep Link... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/compose-navigation-deep-link) |
 | **211** | **Google Credential Manager Demo** | A simple app that demonstrates saving and reading credentials using Google Credential Manager | MVI, Jetpack Compose, Material3, Kotlin Coroutines, Kotlin Flows, Kotlin Serialization, Jetpack Compose Navigation, ViewModel, Google Credential Manager, Credential Manager, Credentials... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/google-credential-manager-demo) |
+| **212** | **Keyboard Focus Management Demo** |  | Jetpack Compose, Material3, FocusManager, FocusRequester... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/keyboard-focus-management-demo) |
  
 # Kotlin Multiplatform Applications
 
