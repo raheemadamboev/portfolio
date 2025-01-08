@@ -9,7 +9,7 @@ _Obsession, passion, and consistency!_
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 532 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#native-android-apps">Hobby Native Android apps</a> | 215 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#native-android-apps">Hobby Native Android apps</a> | 216 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#kotlin-multiplatform-applications">Hobby Kotlin Multiplatform apps<a/> | 14 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#wear-os-applications">Hobby Wear OS apps<a/> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#flutter-applications">Hobby Flutter apps<a/> | 2 | - |
@@ -837,6 +837,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **213** | **SwipeToReveal** | A simple app that demonstrates swipe to reveal actions on items in Jetpack Compose | Jetpack Compose, Material3, Kotlin Coroutines, Kotlin Collections, SwipeToReveal, SwipeToAction, SwipeToDelete... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/swipe-to-reveal) |
 | **214** | **Compose Custom Navigator** | A simple app that demonstrates implementing custom navigator via Jetpack Compose Navigation | Jetpack Compose, Material3, Jetpack Compose Navigation, Koin, Kotlin Coroutines, Kotlin Flows, Kotlin Serialization, Custom Navigator, ViewModel... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/compose-custom-navigator) |
 | **215** | **Image Compression Demo** | A simple app that demonstrates compressing images and saving them in private directory | Jetpack Compose, Material3, Kotlin Coroutines, Bitmap, ImageCompression... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/image-compression-demo) |
+| **216** | **Predictive Back Gesture Demo** | A simple app that demonstrates implementing custom animations in the scope of Predictive Back Gesture API | Jetapck Compose, Material3, Kotlin Serialization, Jetpack Compose Navigation, PredictiveBackGesture... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/predictive-back-gesture-demo) |
  
 # Kotlin Multiplatform Applications
 
