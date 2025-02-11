@@ -9,7 +9,7 @@ _Obsession, passion, and consistency!_
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 557 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#native-android-apps">Hobby Native Android apps</a> | 222 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#native-android-apps">Hobby Native Android apps</a> | 223 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#kotlin-multiplatform-applications">Hobby Kotlin Multiplatform apps<a/> | 14 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#wear-os-applications">Hobby Wear OS apps<a/> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#flutter-applications">Hobby Flutter apps<a/> | 2 | - |
@@ -844,6 +844,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **220** | **Serialization Custom Serializer Demo** | A simple app that demonstrates implementing custom serializer for parsing JSON values in Kotlin Serialization | Jetpack Compose, Material3, Kotlin Coroutines, Kotlin Serialization, Ktor, Ktor Client, Custom Serializer... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/serialization-custom-serializer-demo) |
 | **221** | **Observe Connectivity Validated** | A simple app that demonstrates observing validated connectivity via Kotlin Flows | Jetpack Compose, Material3, Kotlin Coroutines, Kotlin Flows, ConnectivityManager... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/observe-connectivity-validated) |
 | **222** | **Compose Animation Pulse** | Jetpack Compose, Material3, Animation | Jetpack Compose, Material3, Animation... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/compose-animation-pulse) |
+| *223*** | **Compose Animation Triple Orbit Loading** | A simple app that demonstrates implementing triple orbit loading animation in Jetpack Compose | Jetpack Compose, Material3, Animation... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/compose-animation-triple-orbit-loading) |
  
 # Kotlin Multiplatform Applications
 
