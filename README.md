@@ -9,7 +9,7 @@ _Obsession, passion, and consistency!_
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 557 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#native-android-apps">Hobby Native Android apps</a> | 221 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#native-android-apps">Hobby Native Android apps</a> | 222 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#kotlin-multiplatform-applications">Hobby Kotlin Multiplatform apps<a/> | 14 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#wear-os-applications">Hobby Wear OS apps<a/> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#flutter-applications">Hobby Flutter apps<a/> | 2 | - |
