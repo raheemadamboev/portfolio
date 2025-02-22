@@ -9,7 +9,7 @@ _Obsession, passion, and consistency!_
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 557 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#native-android-apps">Hobby Native Android apps</a> | 226 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#native-android-apps">Hobby Native Android apps</a> | 227 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#kotlin-multiplatform-applications">Hobby Kotlin Multiplatform apps<a/> | 14 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#wear-os-applications">Hobby Wear OS apps<a/> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#flutter-applications">Hobby Flutter apps<a/> | 2 | - |
@@ -848,6 +848,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **224** | **Compose Animation Blurred Text** | A simple app that demonstrates implementing blurred text animation in Jetpack Compose | Jetpack Compose, Material3, Animation, Blur... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/compose-animation-blurred-text) |
 | **225** | **Compose FAB Explosion Animation** | A simple app that demonstrates making FAB explosion animation from ScreenA to ScreenB using SharedTransition Animation API in Jetpack Compose | Jetpack Compose, Material3, Jetpack Compose Navigation, Kotlin Serialization, SharedTransition... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/compose-fab-explosion-animation) |
 | **226** | **Compose Canvas Drawing** | A simple app that demonstrates drawing on canvas in Jetpack Compose | MVVM, Jetpack Compose, Material3, Kotlin Collections, Canvas... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/compose-canvas-drawing) |
+| **227** | **Multi-Module Navigation** | A simple app that demonstrates implementing navigation in multi-module projects while keeping it decoupled and modular | Jetpack Compose, Material3, Jetpack Compose Navigation, Kotlin Serialization... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/multi-module-navigation) |
  
 # Kotlin Multiplatform Applications
 
