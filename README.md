@@ -9,7 +9,7 @@ _Obsession, passion, and consistency!_
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 564 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#native-android-apps">Hobby Native Android apps</a> | 229 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#native-android-apps">Hobby Native Android apps</a> | 230 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#kotlin-multiplatform-applications">Hobby Kotlin Multiplatform apps<a/> | 14 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#wear-os-applications">Hobby Wear OS apps<a/> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#flutter-applications">Hobby Flutter apps<a/> | 2 | - |
@@ -851,6 +851,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **227** | **Multi-Module Navigation** | A simple app that demonstrates implementing navigation in multi-module projects while keeping it decoupled and modular | Jetpack Compose, Material3, Jetpack Compose Navigation, Kotlin Serialization... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/multi-module-navigation) |
 | **228** | **Record Screen Demo** | A simple app that demonstrates recording screen as a video and saving it to the gallery | Jetpack Compose, Material3, Kotlin Coroutines, Kotlin Flows, ForegroundService, Media, ScreenRecorder, MediaProjection... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/record-screen-demo) |
 | **229** | **Support Edge-To-Edge Compose** | A simple app that demonstrates supporting edge-to-edge in Jetpack Compose | Jetpack Compose, Material3, Edge-To-Edge... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/support-edge-to-edge-compose) |
+| **230** | **Support Edge-To-Edge View** | A simple app that demonstrates supporting edge-to-edge in View system | View, Material3, Edge-To-Edge... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/support-edge-to-edge-view) |
  
 # Kotlin Multiplatform Applications
 
