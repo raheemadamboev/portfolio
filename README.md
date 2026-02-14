@@ -148,7 +148,7 @@ MVVM, Hilt Dependency Injection, Jetpack Navigation Component, Room, Firebase, V
 
 This app plays audio of "Kichkina Shahzoda" novel locally. It is easy to use. You can easily control audio by notification.
 
-- **60 000+ downloads in Google Play Store so far**
+- **61 000+ downloads in Google Play Store so far**
 - **4.8 overall stars in Google Play Store**
 
 _The app was originally made by Material2 XML. It has been migrated to Material3 Jetpack Compose from scratch completely. You can see Material2 XML app in 5B._
@@ -181,8 +181,8 @@ MVVM, Hilt Dependency Injection, Jetpack Navigation Component, Glide, Exoplayer,
  </a>
 </p>
 
-- **400+ downloads in Google Play Store so far**
-- **4.9 overall stars in Google Play Store**
+- **2 000+ downloads in Google Play Store so far**
+- **4.7 overall stars in Google Play Store**
 
 A beautifully simple ToDo application that emphasises simplicity and ease of use. Whether you want a shopping list, grocery list or you just have lots of things to remember ToDo is built for you. ToDo is fully offline as it does not require internet connection. Also, ToDo is very fast and very light! The size of APK is lighter than 2 MB. It also supports Dark Mode and multiple languages (English, Russian, Uzbek).
  
@@ -221,9 +221,9 @@ _The app was originally made by Material2 XML. It has been migrated to Jetpack C
 
 Notepad is completely offline and ad-free. Regarding adding notes, it has never been straightforward like this. The app supports multiple languages (English, Russian, Uzbek). Auto-save notes.
 
-- **115 000+ downloads in Google Play Store so far**
+- **131 000+ downloads in Google Play Store so far**
 - **4.8 overall stars in Google Play Store**
-- **3 000+ daily active users according to Google Analytics**
+- **3 500+ daily active users according to Google Analytics**
 
 MVVM, Jetpack Compose, Compose Destinations, Firebase, R8, Hilt, Kotlin Coroutines, Room, Jetpack DataStore Preferences, Kotlin Flows, Process Death Handling, Material3, Git... 
 
