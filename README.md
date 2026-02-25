@@ -9,8 +9,8 @@ _Obsession, passion, and consistency!_
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 664 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#native-android-apps">Hobby Native Android apps</a> | 231 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#kotlin-multiplatform-applications">Hobby Kotlin Multiplatform apps<a/> | 15 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#native-android-apps">Hobby Native Android apps</a> | 230 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#kotlin-multiplatform-applications">Hobby Kotlin Multiplatform apps<a/> | 17 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#wear-os-applications">Hobby Wear OS apps<a/> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#flutter-applications">Hobby Flutter apps<a/> | 2 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#react-native-applications">Hobby React Native apps<a/> | 4 | - |
@@ -856,7 +856,6 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **228** | **Record Screen Demo** | A simple app that demonstrates recording screen as a video and saving it to the gallery | Jetpack Compose, Material3, Kotlin Coroutines, Kotlin Flows, ForegroundService, Media, ScreenRecorder, MediaProjection... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/record-screen-demo) |
 | **229** | **Support Edge-To-Edge Compose** | A simple app that demonstrates supporting edge-to-edge in Jetpack Compose | Jetpack Compose, Material3, Edge-To-Edge... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/support-edge-to-edge-compose) |
 | **230** | **Support Edge-To-Edge View** | A simple app that demonstrates supporting edge-to-edge in View system | View, Material3, Edge-To-Edge... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/support-edge-to-edge-view) |
-| **231** | **CMP Responsive Layout** | A simple app that demonstrates building responsive layout in Compose Multiplatform | MVVM, Kotlin Multiplatform, Kotlin Multiplatform Mobile, Compose Multiplatform, Jetpack Compose, ViewModel, Material3... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/cmp-responsive-layout) |
  
 # Kotlin Multiplatform Applications
 
@@ -877,6 +876,8 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **13** | **Splash Multiplatform Demo** | A simple app that demonstrates displaying splash screen in Kotlin Multiplatform | Kotlin Multiplatform, Compose Multiplatform, Jetpack Compose, Material3, Splash Screen, Kotlin Coroutines... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/splash-multiplatform-demo) |
 | **14** | **DateTime Demo** | A simple app that demonstrates using KotlinX DateTime in Kotlin Multiplatform | Kotlin Multiplatform, Compose Multiplatform, Jetpack Compose, Material3, Kotlin DateTime, Kotlin Collections, Kotlin Coroutines, Kotlin Flows... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/datetime-demo) |
 | **15** | **KMP Sharing Native UI Component** | A simple app that demonstrates sharing native UI component in Kotlin Multiplatfrom project | Kotlin Multiplatform, Kotlin Multiplatform Mobile, Compose Multiplatform, Jetpack Compose, Material2, Cupertino... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/kmp-sharing-native-ui-component) |
+| **16** | **CMP Responsive Layout** | A simple app that demonstrates building responsive layout in Compose Multiplatform | MVVM, Kotlin Multiplatform, Kotlin Multiplatform Mobile, Compose Multiplatform, Jetpack Compose, ViewModel, Material3... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/cmp-responsive-layout) |
+| **17** | **CMP Koin Annotations** | A simple app that demonstrates injecting dependencies using Koin with Annotations in Compose Multiplatform | MVVM, Kotlin Multiplatform, Kotlin Multiplatform Mobile, Compose Multiplatform, Jetpack Compose, ViewModel, Material3, Koin, Koin Annotations, Ktor Client... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/cmp-koin-annotations) |
 
 # Wear OS Applications
 
