@@ -213,9 +213,6 @@ _The app was originally made by Material2 XML. It has been migrated to Jetpack C
 <p align="center">
  <a href="https://play.google.com/store/apps/details?id=xyz.teamgravity.notepad">
    <img  src="https://img.shields.io/badge/Play Store-00875f?style=for-the-badge&logo=google&logoColor=white">
- </a>&nbsp;
- <a href="https://github.com/raheemadamboev/notepad-app">
-   <img  src="https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white">
  </a>
 </p>
 
