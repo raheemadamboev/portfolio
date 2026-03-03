@@ -10,7 +10,7 @@ _Obsession, passion, and consistency!_
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-apps">Hobby Native Android apps</a> | 231 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#kotlin-multiplatform-applications">Hobby Kotlin Multiplatform apps<a/> | 19 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#kotlin-multiplatform-applications">Hobby Kotlin Multiplatform apps<a/> | 20 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#wear-os-applications">Hobby Wear OS apps<a/> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#flutter-applications">Hobby Flutter apps<a/> | 2 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#react-native-applications">Hobby React Native apps<a/> | 4 | - |
@@ -878,6 +878,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **17** | **CMP Koin Annotations** | A simple app that demonstrates injecting dependencies using Koin with Annotations in Compose Multiplatform | MVVM, Kotlin Multiplatform, Kotlin Multiplatform Mobile, Compose Multiplatform, Jetpack Compose, ViewModel, Material3, Koin, Koin Annotations, Ktor Client... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/cmp-koin-annotations) |
 | **18** | **CMP Pagination Manual** | A simple app that demonstrates implementing simple pagination manually in Compose Multiplatform | MVVM, Kotlin Multiplatform, Kotlin Multiplatform Mobile, Compose Multiplatform, Jetpack Compose, ViewModel, Material3, Ktor Client, Pagination, Kotlin Coroutines, Kotlin Flows, Kotlin Serialization... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/cmp-pagination-manual) |
 | **19** | **CMP Navigation DeepLink** | A simple app that demonstrates handling deep links in Compose Multiplatform (Android + iOS) | Kotlin Multiplatform, Kotlin Multiplatform Mobile, Compose Multiplatform, Jetpack Compose, Material3, Kotlin Serialization, Jetpack Compose Navigation, DeepLink... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/cmp-navigation-deep-link) |
+| **20** | **CMP Web App** | A simple app that demonstrates building web apps with Compose Multiplatform | Kotlin Multiplatform, Kotlin Multiplatform Mobile, Compose Multiplatform, Jetpack Compose, Material3... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/cmp-web-app) |
 
 # Wear OS Applications
 
