@@ -9,7 +9,7 @@ _Obsession, passion, and consistency!_
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 664 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#native-android-apps">Hobby Native Android apps</a> | 235 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#native-android-apps">Hobby Native Android apps</a> | 236 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#kotlin-multiplatform-applications">Hobby Kotlin Multiplatform apps<a/> | 20 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#wear-os-applications">Hobby Wear OS apps<a/> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#flutter-applications">Hobby Flutter apps<a/> | 2 | - |
@@ -858,6 +858,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **233** | **M3 Expressive Split Button** | A simple app that demonstrates using SplitButton in Material3 Expressive | Jetpack Compose, Material3, Material3 Expressive, SplitButton... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/m3-expressive-split-button) |
 | **234** | **M3 Expressive Button Group** | A simple app that demonstrates using ButtonGroup in Material3 Expressive | Jetpack Compose, Material3, Material3 Expressive, ButtonGroup... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/m3-expressive-button-group) |
 | **235** | **M3 Expressive Floating Action Button Menu** | A simple app that demonstrates using Floating Action Button Menu in Material3 Expressive | Jetpack Compose, Material3, Material3 Expressive... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/m3-expressive-fab-menu) |
+| **236** | **M3 Expressive Loading Progress Indicator** | A simple app that demonstrates using Loading and Progress indicators in Material3 Expressive | Jetpack Compose, Material3, Material3 Expressive, Loading Indicator, Progress Indicator... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/m3-expressive-loading-progress-indicator) |
  
 # Kotlin Multiplatform Applications
 
