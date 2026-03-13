@@ -10,7 +10,7 @@ _Obsession, passion, and consistency!_
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-apps">Hobby Native Android apps</a> | 238 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#kotlin-multiplatform-applications">Hobby Kotlin Multiplatform apps<a/> | 24 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#kotlin-multiplatform-applications">Hobby Kotlin Multiplatform apps<a/> | 25 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#wear-os-applications">Hobby Wear OS apps<a/> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#flutter-applications">Hobby Flutter apps<a/> | 2 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#react-native-applications">Hobby React Native apps<a/> | 4 | - |
@@ -890,6 +890,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **22** | **Navigation3 Nested Nav Graph** | A simple app that demonstrates nesting navigation graphs and sharing ViewModels between screens using Navigation3 in Compose Multiplatform | MVVM, Kotlin Multiplatform, Kotlin Multiplatform Mobile, Compose Multiplatform, Jetpack Compose, ViewModel, Material3, Navigation3, Kotlin Serialization... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/navigation3-nested-nav-graph) |
 | **23** | **Navigation3 Bottom Navigation** | A simple app that demonstrates implementing BottomNavigation with Multiple BackStacks using Navigation3 in Compose Multiplatform | MVVM, Kotlin Multiplatform, Kotlin Multiplatform Mobile, Compose Multiplatform, Jetpack Compose, ViewModel, Material3, Navigation3, Kotlin Serialization... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/navigation3-bottom-navigation) |
 | **24** | **Navigation3 Scene Strategy** | A simple app that demonstrates using Scene and SceneStrategy with Navigation3 in Compose Multiplatform | MVVM, Kotlin Multiplatform, Kotlin Multiplatform Mobile, Compose Multiplatform, Jetpack Compose, ViewModel, Material3, Navigation3, Kotlin Serialization... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/navigation3-scene-strategy) |
+| **25** | **Navigation3 Result** | A simple app that demonstrates returning result between routes using Navigation3 in Compose Multiplatform | Kotlin Multiplatform, Kotlin Multiplatform Mobile, Compose Multiplatform, Jetpack Compose, Material3, Navigation3, Kotlin Serialization... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)]() |
 
 # Wear OS Applications
 
