@@ -9,7 +9,7 @@ _Obsession, passion, and consistency!_
 | <a href="https://github.com/raheemadamboev/portfolio#production-android-apps">Production Android apps</a> | 13 | 664 000+ |
 | <a href="https://github.com/raheemadamboev/portfolio#freelance-projects">Freelance projects</a> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#native-android-libraries">Native Android libraries</a> | 5 | - |
-| <a href="https://github.com/raheemadamboev/portfolio#native-android-apps">Hobby Native Android apps</a> | 238 | - |
+| <a href="https://github.com/raheemadamboev/portfolio#native-android-apps">Hobby Native Android apps</a> | 239 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#kotlin-multiplatform-applications">Hobby Kotlin Multiplatform apps<a/> | 29 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#wear-os-applications">Hobby Wear OS apps<a/> | 1 | - |
 | <a href="https://github.com/raheemadamboev/portfolio#flutter-applications">Hobby Flutter apps<a/> | 2 | - |
@@ -861,6 +861,7 @@ MVVM, Firebase, Jetpack Paging, Kotlin Coroutines, Glide, Material Design, ViewB
 | **236** | **M3 Expressive Loading Progress Indicator** | A simple app that demonstrates using Loading and Progress indicators in Material3 Expressive | Jetpack Compose, Material3, Material3 Expressive, Loading Indicator, Progress Indicator... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/m3-expressive-loading-progress-indicator) |
 | **237** | **M3 Expressive Slider** | A simple app that demonstrates using Sliders in Material3 Expressive | Jetpack Compose, Material3, Material3 Expressive, Slider... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/m3-expressive-slider) |
 | **238** | **M3 Expressive Floating Toolbar** | A simple app that demonstrates using FloatingToolbar in Material3 Expressive | Jetpack Compose, Material3, Material3 Expressive, Floating Toolbar... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/m3-expressive-floating-toolbar) |
+| **239** | **Media3 Custom Video Player** | A simple app that demonstrates implementing custom video player in Media3 | Jetpack Compose, Material3, Media3, ExoPlayer... | [![pic](https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheemadamboev/media3-custom-video-player) |
  
 # Kotlin Multiplatform Applications
 
